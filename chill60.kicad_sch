@@ -1374,6 +1374,23 @@
     )
   )
 
+  (sheet (at 196.85 97.79) (size 40.64 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 737834b9-aee7-4cf4-b31e-7e166d45723a)
+    (property "Sheetname" "Switch Matrix" (at 196.85 97.0784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "matrix.kicad_sch" (at 196.85 135.2046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "chill60"
+        (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
