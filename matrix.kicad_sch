@@ -2,7 +2,7 @@
 
   (uuid 2b21a88c-dcce-4c32-b74d-cb04a08504d3)
 
-  (paper "A4")
+  (paper "USLetter")
 
   (lib_symbols
     (symbol "Device:D_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
