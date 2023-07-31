@@ -222,11 +222,11 @@
   (junction (at 110.49 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 06d288e3-a872-46b3-8692-472336bb6218)
   )
+  (junction (at 212.09 43.18) (diameter 0) (color 0 0 0 0)
+    (uuid 098b8d02-67f9-48a7-8aab-8c93c5d49da6)
+  )
   (junction (at 135.89 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 09b797f0-0dff-43b0-a30e-5046812ba01c)
-  )
-  (junction (at 207.01 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid 09bba80b-e7e7-431d-a8ba-b09f26e520b9)
   )
   (junction (at 186.69 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 0a5fcb0a-d929-4d9c-9b3b-4bf5f553e751)
@@ -237,17 +237,23 @@
   (junction (at 72.39 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 0bf43c16-46da-42e3-b259-933e38e9a39d)
   )
-  (junction (at 118.11 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid 0e1ed490-5e11-4e0c-af17-cf93c2f08b33)
-  )
-  (junction (at 168.91 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 0e8929b6-ded2-4d2f-8482-f4648bae143e)
-  )
   (junction (at 161.29 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 0ef88170-a626-446c-ad9b-331a9358663a)
   )
-  (junction (at 212.09 114.3) (diameter 0) (color 0 0 0 0)
-    (uuid 1d69be97-39ce-495e-9aad-073ffd31eb7e)
+  (junction (at 92.71 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 118ffeb6-f532-463c-bf06-e4a2e6ea8b44)
+  )
+  (junction (at 168.91 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid 16345450-fea1-4127-b00b-76ae7e03154f)
+  )
+  (junction (at 80.01 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 182a710b-de8b-435c-8631-40a9a17f51a3)
+  )
+  (junction (at 41.91 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid 1a6d74a7-d559-4ce8-9d0e-f272a08f270a)
+  )
+  (junction (at 59.69 114.3) (diameter 0) (color 0 0 0 0)
+    (uuid 1fad24ca-397f-434b-bcc2-759cba4ff354)
   )
   (junction (at 110.49 101.6) (diameter 0) (color 0 0 0 0)
     (uuid 1fd0f554-2bcb-4e49-bed6-98be43d31c83)
@@ -261,8 +267,8 @@
   (junction (at 46.99 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 249b2552-8638-40eb-ab3a-9ad6f0d3c08d)
   )
-  (junction (at 67.31 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 2529bf4c-3d1c-43fb-bd5d-58f1eb771d18)
+  (junction (at 181.61 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid 2527725d-fefd-4267-a9ee-98a574e0a603)
   )
   (junction (at 181.61 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 2589e75f-f3b8-4c31-ba94-b680665aa701)
@@ -273,17 +279,17 @@
   (junction (at 118.11 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 26f76945-24df-4384-970c-49cef4277925)
   )
+  (junction (at 67.31 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 2bb5e5d8-9092-479a-bc09-9339f85a1f6d)
+  )
   (junction (at 41.91 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 2cd60c9d-7782-4fb4-92ed-1970549d69b5)
   )
-  (junction (at 41.91 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid 2ded13e5-8f72-49df-bed3-0a47972aa41a)
+  (junction (at 54.61 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 2db8dfc5-fd1f-4554-aa36-d3aefde00267)
   )
   (junction (at 59.69 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 2ede9b36-4524-4ca2-ad43-6d1729f6a2e3)
-  )
-  (junction (at 80.01 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 312e9c08-10b5-4d81-a8e1-939ef8ef6a90)
   )
   (junction (at 168.91 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 31c8871c-cb92-45c5-ad86-f8511bb7f5f9)
@@ -291,8 +297,17 @@
   (junction (at 72.39 119.38) (diameter 0) (color 0 0 0 0)
     (uuid 33812d77-487b-41d6-8802-0f08c2396ebd)
   )
+  (junction (at 118.11 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 37f9e847-3566-4055-84fb-13519b071e16)
+  )
+  (junction (at 130.81 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 39b1f931-e65c-4409-98f0-d311c28d57a8)
+  )
   (junction (at 156.21 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 3b09278f-6dfa-4b10-b031-cb6046369faf)
+  )
+  (junction (at 59.69 101.6) (diameter 0) (color 0 0 0 0)
+    (uuid 3cd69276-5f5b-4bf2-9230-f2da909b01d4)
   )
   (junction (at 173.99 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 3dca4135-0ec3-4184-b6e9-46603edb816b)
@@ -302,6 +317,9 @@
   )
   (junction (at 67.31 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 3f3759d6-cef6-46e5-a4c0-111fd3b08b35)
+  )
+  (junction (at 194.31 109.22) (diameter 0) (color 0 0 0 0)
+    (uuid 400fc78d-0215-4d84-9dcc-0be674491482)
   )
   (junction (at 59.69 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 42e09733-a770-4dd7-9211-03ddd44a2f0d)
@@ -315,20 +333,20 @@
   (junction (at 161.29 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 4b657fde-1199-438d-aa1f-7a0aeb6fdb51)
   )
+  (junction (at 207.01 55.88) (diameter 0) (color 0 0 0 0)
+    (uuid 4ebf0638-05f6-468c-bc90-e771d7dbd2f1)
+  )
   (junction (at 186.69 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 4f3a872f-aad7-4ab4-9ea0-d4eb1754a39d)
   )
   (junction (at 123.19 101.6) (diameter 0) (color 0 0 0 0)
     (uuid 51898809-c102-4965-9160-cfeab78d6ce4)
   )
-  (junction (at 41.91 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid 54d51d67-b1ad-40b2-805d-1d6e85265886)
+  (junction (at 54.61 109.22) (diameter 0) (color 0 0 0 0)
+    (uuid 58808484-3fee-4583-9290-7d376548e81b)
   )
-  (junction (at 54.61 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 54f0f7a2-1aff-40e6-9940-bf417550b284)
-  )
-  (junction (at 156.21 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 597ad52c-7293-4ba7-a9ce-9ce718d8d085)
+  (junction (at 118.11 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid 5b9db89b-1d71-4a40-939b-c721af70099b)
   )
   (junction (at 123.19 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 5d780441-225d-4f89-9aa1-239b2989a84a)
@@ -336,20 +354,14 @@
   (junction (at 97.79 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 5da27f49-ddf7-4231-9186-24fec25797ff)
   )
-  (junction (at 207.01 109.22) (diameter 0) (color 0 0 0 0)
-    (uuid 5e05418f-7eb5-4973-a745-35ad6a32c18e)
+  (junction (at 46.99 101.6) (diameter 0) (color 0 0 0 0)
+    (uuid 612766a4-1494-4d51-8025-a7e217ea5987)
   )
-  (junction (at 194.31 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 5e25faeb-c41d-438e-93c2-deed8a77abce)
-  )
-  (junction (at 92.71 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 60e9e89f-3a03-43e0-93fb-218a0dd2ffbd)
+  (junction (at 41.91 90.17) (diameter 0) (color 0 0 0 0)
+    (uuid 61368a0b-752b-4096-82f1-673ca94e5022)
   )
   (junction (at 135.89 101.6) (diameter 0) (color 0 0 0 0)
     (uuid 65cce0df-61c9-4e8e-95c5-1a0f84f4c472)
-  )
-  (junction (at 207.01 55.88) (diameter 0) (color 0 0 0 0)
-    (uuid 68101851-d989-4317-b401-5e321069664c)
   )
   (junction (at 186.69 114.3) (diameter 0) (color 0 0 0 0)
     (uuid 68a541f4-8314-49d0-be12-3687bcb10c25)
@@ -363,17 +375,11 @@
   (junction (at 173.99 101.6) (diameter 0) (color 0 0 0 0)
     (uuid 6f7bfb13-4f65-4e60-b24a-69c2cd4713fe)
   )
+  (junction (at 105.41 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 731373cd-40f8-4eda-b7f4-02eb8caf6d95)
+  )
   (junction (at 97.79 101.6) (diameter 0) (color 0 0 0 0)
     (uuid 7493de13-7f59-4777-9dfe-a175c191425c)
-  )
-  (junction (at 168.91 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid 77e06d6d-8c3b-434d-89d3-103883e42b19)
-  )
-  (junction (at 59.69 114.3) (diameter 0) (color 0 0 0 0)
-    (uuid 78b84406-c76d-4493-af77-21c28918834d)
-  )
-  (junction (at 46.99 101.6) (diameter 0) (color 0 0 0 0)
-    (uuid 79530b11-215b-4e58-a600-c44e2c52aec3)
   )
   (junction (at 67.31 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 7dce5ca1-946a-4685-8d33-2c07361072c4)
@@ -390,26 +396,14 @@
   (junction (at 54.61 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 7ee4dc1e-9da9-469c-a1c2-f07f635380c6)
   )
-  (junction (at 194.31 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid 8033d61b-9358-4a5e-875a-4c010183aea9)
-  )
-  (junction (at 194.31 109.22) (diameter 0) (color 0 0 0 0)
-    (uuid 8158dcb9-581b-4318-adcd-4c5f81745528)
-  )
   (junction (at 135.89 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 81634049-4bf1-48c1-bef2-6f0c2eba4e12)
-  )
-  (junction (at 207.01 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 82df8e41-2802-44db-93eb-4dab3d9570ce)
   )
   (junction (at 118.11 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 86650a62-c359-4100-9f5d-c864bb3e917f)
   )
   (junction (at 161.29 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 87469b29-0759-4b18-ac32-3b0b43bd3d22)
-  )
-  (junction (at 130.81 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 8b451442-36c5-4c1d-b67d-9b6ba1f32509)
   )
   (junction (at 148.59 101.6) (diameter 0) (color 0 0 0 0)
     (uuid 8ba0ba30-865e-4403-b7ee-6b0055a17786)
@@ -420,17 +414,14 @@
   (junction (at 80.01 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 8eef3129-b80d-4f4a-aeae-53d0ee36e990)
   )
-  (junction (at 46.99 83.82) (diameter 0) (color 0 0 0 0)
-    (uuid 904cae43-cd62-4cf5-b19d-7b54a98789ee)
-  )
   (junction (at 186.69 48.26) (diameter 0) (color 0 0 0 0)
     (uuid 913cfe7b-7bf5-4353-9804-4202d983f679)
   )
+  (junction (at 143.51 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 92220106-26a2-4ccf-8b13-7e101fc81761)
+  )
   (junction (at 67.31 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 935d6ae3-a069-4537-a03c-185802d0e04c)
-  )
-  (junction (at 118.11 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 94378a6f-321c-435e-b19d-0d69fa01a9fa)
   )
   (junction (at 156.21 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 9502756f-d1fd-4902-8a47-a5bc5e8a508c)
@@ -441,26 +432,29 @@
   (junction (at 110.49 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 97938d60-cccd-434e-8030-20af2d74cdf1)
   )
-  (junction (at 194.31 55.88) (diameter 0) (color 0 0 0 0)
-    (uuid 984f69a7-b885-49ef-935d-5b943c58a122)
-  )
-  (junction (at 46.99 78.74) (diameter 0) (color 0 0 0 0)
-    (uuid 9c58179b-d7bb-4d1e-936f-f73ad811d9c0)
-  )
   (junction (at 59.69 119.38) (diameter 0) (color 0 0 0 0)
     (uuid a00fd159-7ebb-4435-8f2c-8b474913776b)
   )
   (junction (at 41.91 109.22) (diameter 0) (color 0 0 0 0)
     (uuid a2dcdfa4-0e35-4498-8a4e-eb8c1fdc29d8)
   )
-  (junction (at 199.39 114.3) (diameter 0) (color 0 0 0 0)
-    (uuid a491bbf5-12c4-493c-bdc5-02bdcc5c127f)
+  (junction (at 207.01 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid a4082f7c-bbb7-4c56-a2c6-3a80c75a530d)
   )
   (junction (at 72.39 48.26) (diameter 0) (color 0 0 0 0)
     (uuid a90ecc30-cddf-4ff7-b249-e3236cccf354)
   )
   (junction (at 54.61 73.66) (diameter 0) (color 0 0 0 0)
     (uuid aa1285c6-84fc-4f03-a691-7b8ee05c5640)
+  )
+  (junction (at 54.61 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid aac4d14c-6497-4426-adfe-762d9284eb6e)
+  )
+  (junction (at 207.01 109.22) (diameter 0) (color 0 0 0 0)
+    (uuid acd1fcf7-e922-4382-8a64-b41f06611447)
+  )
+  (junction (at 168.91 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid ada94bbe-95eb-409d-b9cc-817b5d3d1ae8)
   )
   (junction (at 97.79 83.82) (diameter 0) (color 0 0 0 0)
     (uuid b1097c0f-fd62-4c95-a573-bbc30740ee02)
@@ -471,8 +465,8 @@
   (junction (at 199.39 66.04) (diameter 0) (color 0 0 0 0)
     (uuid b15eb1e4-68cf-4265-8cb7-708697764539)
   )
-  (junction (at 181.61 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid b179e6c7-b779-4264-a2dc-022cf37f5271)
+  (junction (at 212.09 114.3) (diameter 0) (color 0 0 0 0)
+    (uuid b3027009-6ced-43e9-9d21-41a7fb0b843d)
   )
   (junction (at 85.09 101.6) (diameter 0) (color 0 0 0 0)
     (uuid b33d7ff1-01b8-49b4-af06-4cd21e8d7eff)
@@ -492,6 +486,9 @@
   (junction (at 123.19 114.3) (diameter 0) (color 0 0 0 0)
     (uuid bc4d631a-600f-4355-b0d3-9b08fa6c925c)
   )
+  (junction (at 67.31 91.44) (diameter 0) (color 0 0 0 0)
+    (uuid be3b22cd-92dc-438e-8974-6e8b203e1bfb)
+  )
   (junction (at 199.39 119.38) (diameter 0) (color 0 0 0 0)
     (uuid beacf3fa-9f8b-422a-9ae0-1cea2baa5164)
   )
@@ -510,26 +507,32 @@
   (junction (at 186.69 101.6) (diameter 0) (color 0 0 0 0)
     (uuid c7d0c69e-b6c1-4a3f-b52f-41d7f536b067)
   )
-  (junction (at 67.31 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid c7df6256-4c70-41f4-8631-5597472e1cca)
-  )
-  (junction (at 41.91 72.39) (diameter 0) (color 0 0 0 0)
-    (uuid cb323bc7-526c-4422-a881-4a1bc13c740e)
-  )
   (junction (at 130.81 55.88) (diameter 0) (color 0 0 0 0)
     (uuid cbc78999-3497-4d14-bcc5-ef85f15e1ed5)
   )
   (junction (at 161.29 101.6) (diameter 0) (color 0 0 0 0)
     (uuid ce450520-f0d1-49ad-87fc-c87b27c60727)
   )
+  (junction (at 207.01 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid d01e4ddf-4b9d-4279-8efb-b06b85df52c9)
+  )
+  (junction (at 194.31 55.88) (diameter 0) (color 0 0 0 0)
+    (uuid d101fa8f-78d5-4f08-826c-2876edbfb25b)
+  )
   (junction (at 199.39 101.6) (diameter 0) (color 0 0 0 0)
     (uuid d1349daa-a31f-4eb1-adfe-f510c9841ba6)
+  )
+  (junction (at 194.31 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid d1c39759-a903-408e-9ce5-206b1f79a6d1)
+  )
+  (junction (at 199.39 114.3) (diameter 0) (color 0 0 0 0)
+    (uuid d2bafc8d-274c-4010-b13b-cb04b1a23439)
   )
   (junction (at 46.99 114.3) (diameter 0) (color 0 0 0 0)
     (uuid d423d0e0-c378-4bf7-9648-781bebb8428b)
   )
-  (junction (at 181.61 91.44) (diameter 0) (color 0 0 0 0)
-    (uuid d49a2868-becf-4aa3-bc95-094ca5a4de97)
+  (junction (at 181.61 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid d51b07d3-b0b8-4b27-a7f5-c17f8934a0a5)
   )
   (junction (at 189.23 132.08) (diameter 0) (color 0 0 0 0)
     (uuid d54c9840-3725-4901-913f-2205112e42dc)
@@ -537,11 +540,14 @@
   (junction (at 118.11 127) (diameter 0) (color 0 0 0 0)
     (uuid d5697ba1-52b5-4192-9e5b-7c9484a03d97)
   )
-  (junction (at 54.61 109.22) (diameter 0) (color 0 0 0 0)
-    (uuid d7f13eca-9473-4ad8-9794-54cf04c65eda)
-  )
   (junction (at 173.99 48.26) (diameter 0) (color 0 0 0 0)
     (uuid da6ab068-9f54-495c-ae7b-eb9afb90c780)
+  )
+  (junction (at 156.21 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid dab2a49d-d68f-4945-b911-c5bdf99344dd)
+  )
+  (junction (at 194.31 73.66) (diameter 0) (color 0 0 0 0)
+    (uuid db8c6570-8de8-4b26-9193-c859869e5123)
   )
   (junction (at 207.01 73.66) (diameter 0) (color 0 0 0 0)
     (uuid de5eabc2-d131-48c2-9185-ea7af79c45da)
@@ -564,9 +570,6 @@
   (junction (at 194.31 90.17) (diameter 0) (color 0 0 0 0)
     (uuid e3bf5785-d718-40a0-981a-a245988c7c99)
   )
-  (junction (at 143.51 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid e4ae8168-b31f-4839-bd53-3cb04f11a322)
-  )
   (junction (at 46.99 48.26) (diameter 0) (color 0 0 0 0)
     (uuid e932177e-91b5-4ab5-9f88-58a00ae1c031)
   )
@@ -579,14 +582,8 @@
   (junction (at 173.99 114.3) (diameter 0) (color 0 0 0 0)
     (uuid f234e8ca-0d99-43df-9cae-f191521f79ba)
   )
-  (junction (at 212.09 43.18) (diameter 0) (color 0 0 0 0)
-    (uuid f458360c-621f-4080-90ab-bdf621c52207)
-  )
   (junction (at 72.39 114.3) (diameter 0) (color 0 0 0 0)
     (uuid f47d1ef7-e358-4c1a-b596-cd8c1cbea4cc)
-  )
-  (junction (at 105.41 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid f4b80e5f-6082-49f6-bf20-69659355487e)
   )
   (junction (at 110.49 83.82) (diameter 0) (color 0 0 0 0)
     (uuid f5b37194-3e53-4f6e-8d24-35386a164c0f)
@@ -612,8 +609,11 @@
   (junction (at 168.91 109.22) (diameter 0) (color 0 0 0 0)
     (uuid fd0d94f2-1b9d-41a6-be24-352b78ffe903)
   )
+  (junction (at 46.99 96.52) (diameter 0) (color 0 0 0 0)
+    (uuid ff42c86f-4bea-406e-8918-8828c3e741b5)
+  )
 
-  (wire (pts (xy 36.83 80.01) (xy 36.83 78.74))
+  (wire (pts (xy 36.83 97.79) (xy 36.83 96.52))
     (stroke (width 0) (type default))
     (uuid 030beb9e-aa02-4bfe-b801-d65368fd0342)
   )
@@ -621,7 +621,7 @@
     (stroke (width 0) (type default))
     (uuid 0332fac7-7721-4d4f-8105-4311df55a4f9)
   )
-  (wire (pts (xy 46.99 101.6) (xy 72.39 101.6))
+  (wire (pts (xy 33.02 101.6) (xy 46.99 101.6))
     (stroke (width 0) (type default))
     (uuid 062cbffa-e561-4794-b0b5-a40f20ac0f28)
   )
@@ -629,25 +629,41 @@
     (stroke (width 0) (type default))
     (uuid 0d6faf6c-952b-4ece-9b31-fc1a45022b81)
   )
+  (wire (pts (xy 194.31 55.88) (xy 194.31 73.66))
+    (stroke (width 0) (type default))
+    (uuid 0e72d421-66b2-483c-8c72-d3a56c1615e1)
+  )
   (wire (pts (xy 214.63 132.08) (xy 214.63 115.57))
     (stroke (width 0) (type default))
     (uuid 0eab1853-560b-4975-b569-e1d72a172fb2)
   )
-  (wire (pts (xy 41.91 91.44) (xy 41.91 109.22))
+  (wire (pts (xy 41.91 55.88) (xy 41.91 90.17))
     (stroke (width 0) (type default))
     (uuid 12dff405-f68f-4f58-9be7-bfba073c4dd7)
   )
-  (wire (pts (xy 156.21 38.1) (xy 156.21 55.88))
+  (wire (pts (xy 156.21 29.21) (xy 156.21 38.1))
     (stroke (width 0) (type default))
     (uuid 12e6db5a-2d06-4904-ae59-d8e17475b70c)
   )
-  (wire (pts (xy 36.83 80.01) (xy 46.99 80.01))
+  (wire (pts (xy 36.83 97.79) (xy 46.99 97.79))
     (stroke (width 0) (type default))
     (uuid 12f9fbe5-a975-486c-920d-08c1226aea9f)
+  )
+  (wire (pts (xy 118.11 38.1) (xy 118.11 55.88))
+    (stroke (width 0) (type default))
+    (uuid 14651ab7-95c5-4432-ae42-5ca9b43bdab2)
   )
   (wire (pts (xy 67.31 55.88) (xy 67.31 73.66))
     (stroke (width 0) (type default))
     (uuid 14f71846-02de-4464-be2a-adc117bcaad8)
+  )
+  (wire (pts (xy 181.61 91.44) (xy 181.61 109.22))
+    (stroke (width 0) (type default))
+    (uuid 15ff3ad4-bb4a-431d-94d4-31da0a808668)
+  )
+  (wire (pts (xy 59.69 101.6) (xy 72.39 101.6))
+    (stroke (width 0) (type default))
+    (uuid 16429640-4dad-4078-8298-690894046e06)
   )
   (wire (pts (xy 123.19 83.82) (xy 135.89 83.82))
     (stroke (width 0) (type default))
@@ -657,11 +673,11 @@
     (stroke (width 0) (type default))
     (uuid 1a7fb67e-d424-4183-ba55-63fa2cfde824)
   )
-  (wire (pts (xy 194.31 38.1) (xy 194.31 55.88))
+  (wire (pts (xy 194.31 29.21) (xy 194.31 38.1))
     (stroke (width 0) (type default))
     (uuid 1aeddbff-1391-49aa-b48c-9b45a5c0cb77)
   )
-  (wire (pts (xy 194.31 109.22) (xy 194.31 127))
+  (wire (pts (xy 194.31 91.44) (xy 194.31 109.22))
     (stroke (width 0) (type default))
     (uuid 1bd3ea70-b65b-4ab8-a1a8-548d330c31fc)
   )
@@ -685,9 +701,13 @@
     (stroke (width 0) (type default))
     (uuid 21d85a73-f3c3-4f3b-950f-93bbb937b844)
   )
-  (wire (pts (xy 130.81 29.21) (xy 130.81 38.1))
+  (wire (pts (xy 41.91 91.44) (xy 41.91 109.22))
     (stroke (width 0) (type default))
-    (uuid 231e71cd-35b9-4f22-8a63-9ff6a7d95637)
+    (uuid 21dda72f-aaf6-46f0-8181-b2f6a45fdb8b)
+  )
+  (wire (pts (xy 207.01 36.83) (xy 207.01 38.1))
+    (stroke (width 0) (type default))
+    (uuid 24b05431-c05f-49ab-8723-4a919387082e)
   )
   (wire (pts (xy 173.99 48.26) (xy 186.69 48.26))
     (stroke (width 0) (type default))
@@ -697,13 +717,9 @@
     (stroke (width 0) (type default))
     (uuid 2728438e-14bb-40c2-b3b2-03ad5632a694)
   )
-  (wire (pts (xy 194.31 73.66) (xy 194.31 90.17))
+  (wire (pts (xy 105.41 38.1) (xy 105.41 55.88))
     (stroke (width 0) (type default))
-    (uuid 2bbe25f1-4cd2-4a1d-a712-c4586d148a5c)
-  )
-  (wire (pts (xy 207.01 109.22) (xy 207.01 127))
-    (stroke (width 0) (type default))
-    (uuid 2c493866-a605-4d9b-94b8-78e317f34d69)
+    (uuid 2aceb989-4acc-4909-b4ed-6bb3464f7121)
   )
   (wire (pts (xy 201.93 115.57) (xy 199.39 115.57))
     (stroke (width 0) (type default))
@@ -712,10 +728,6 @@
   (wire (pts (xy 72.39 83.82) (xy 85.09 83.82))
     (stroke (width 0) (type default))
     (uuid 2f470785-abd7-436c-a774-be313cb855c1)
-  )
-  (wire (pts (xy 207.01 55.88) (xy 207.01 73.66))
-    (stroke (width 0) (type default))
-    (uuid 2f63b91b-671e-4d17-adef-5df8cc6ebe00)
   )
   (wire (pts (xy 80.01 55.88) (xy 80.01 73.66))
     (stroke (width 0) (type default))
@@ -729,17 +741,17 @@
     (stroke (width 0) (type default))
     (uuid 332d01fb-1bb2-46d5-ae6d-738b89f0d04f)
   )
-  (wire (pts (xy 168.91 38.1) (xy 168.91 55.88))
+  (wire (pts (xy 168.91 29.21) (xy 168.91 38.1))
     (stroke (width 0) (type default))
     (uuid 388731c6-dba2-4468-b9e5-c3e0cab3b33c)
-  )
-  (wire (pts (xy 67.31 29.21) (xy 67.31 38.1))
-    (stroke (width 0) (type default))
-    (uuid 3bdb3c07-75c6-4b4f-a7a8-393a227e0d29)
   )
   (wire (pts (xy 199.39 115.57) (xy 199.39 114.3))
     (stroke (width 0) (type default))
     (uuid 3c4d145d-fafa-46f0-83f1-b382ba292986)
+  )
+  (wire (pts (xy 156.21 38.1) (xy 156.21 55.88))
+    (stroke (width 0) (type default))
+    (uuid 3d67b26a-ac17-4ad2-8d05-2cd978090367)
   )
   (wire (pts (xy 130.81 73.66) (xy 130.81 91.44))
     (stroke (width 0) (type default))
@@ -749,7 +761,7 @@
     (stroke (width 0) (type default))
     (uuid 4011afb0-7d97-4d23-9021-936a1f589f35)
   )
-  (wire (pts (xy 46.99 83.82) (xy 59.69 83.82))
+  (wire (pts (xy 33.02 83.82) (xy 59.69 83.82))
     (stroke (width 0) (type default))
     (uuid 41f4961e-c4d4-44b3-a8c9-10c8367af8a0)
   )
@@ -773,6 +785,10 @@
     (stroke (width 0) (type default))
     (uuid 464c1b9f-af6d-482d-942e-f45f97e76ffa)
   )
+  (wire (pts (xy 181.61 38.1) (xy 181.61 55.88))
+    (stroke (width 0) (type default))
+    (uuid 476b19ae-98cd-4aea-9287-353345fe0026)
+  )
   (wire (pts (xy 110.49 48.26) (xy 123.19 48.26))
     (stroke (width 0) (type default))
     (uuid 47f90b7a-923d-46e8-b59b-ddbce4f99c3d)
@@ -789,7 +805,7 @@
     (stroke (width 0) (type default))
     (uuid 4e56d990-5f15-41fd-bf66-d1de906e75d2)
   )
-  (wire (pts (xy 130.81 38.1) (xy 130.81 55.88))
+  (wire (pts (xy 130.81 29.21) (xy 130.81 38.1))
     (stroke (width 0) (type default))
     (uuid 51311ef5-cdfc-4986-a56c-070acdbb42d5)
   )
@@ -801,17 +817,9 @@
     (stroke (width 0) (type default))
     (uuid 529036bf-8547-41f6-bb7c-89bca5baa1e9)
   )
-  (wire (pts (xy 207.01 91.44) (xy 207.01 109.22))
-    (stroke (width 0) (type default))
-    (uuid 529a2e33-0eca-45cc-9508-57b9eec6f684)
-  )
   (wire (pts (xy 207.01 73.66) (xy 207.01 91.44))
     (stroke (width 0) (type default))
-    (uuid 536563a3-d97b-4dba-b32b-9afb9b426eed)
-  )
-  (wire (pts (xy 118.11 38.1) (xy 118.11 55.88))
-    (stroke (width 0) (type default))
-    (uuid 53d63427-894f-48c5-9553-8b6e23dabb07)
+    (uuid 529a2e33-0eca-45cc-9508-57b9eec6f684)
   )
   (wire (pts (xy 110.49 83.82) (xy 123.19 83.82))
     (stroke (width 0) (type default))
@@ -820,6 +828,10 @@
   (wire (pts (xy 186.69 132.08) (xy 189.23 132.08))
     (stroke (width 0) (type default))
     (uuid 55c56ed6-80c1-4459-99fb-cc4f99978fb0)
+  )
+  (wire (pts (xy 168.91 38.1) (xy 168.91 55.88))
+    (stroke (width 0) (type default))
+    (uuid 55de0bf0-0bc9-46f9-a04f-4c46805e1167)
   )
   (wire (pts (xy 123.19 66.04) (xy 135.89 66.04))
     (stroke (width 0) (type default))
@@ -853,9 +865,9 @@
     (stroke (width 0) (type default))
     (uuid 62ee74c6-356e-41ef-ab9c-c881057d991d)
   )
-  (wire (pts (xy 105.41 38.1) (xy 105.41 55.88))
+  (wire (pts (xy 207.01 38.1) (xy 207.01 55.88))
     (stroke (width 0) (type default))
-    (uuid 6419bf95-cc64-4512-9dd5-61d282f9c96f)
+    (uuid 63a54f87-2967-466f-a778-901883135a8b)
   )
   (wire (pts (xy 168.91 109.22) (xy 168.91 139.7))
     (stroke (width 0) (type default))
@@ -881,29 +893,29 @@
     (stroke (width 0) (type default))
     (uuid 6ba49493-a91a-464a-bfbd-fab65dd7e77e)
   )
-  (wire (pts (xy 207.01 36.83) (xy 207.01 38.1))
-    (stroke (width 0) (type default))
-    (uuid 6d3c9bb6-4d06-4688-9c3b-39e93595680d)
-  )
   (wire (pts (xy 41.91 38.1) (xy 41.91 55.88))
     (stroke (width 0) (type default))
     (uuid 6f5a2057-ffde-4744-837a-62401afa2a2a)
-  )
-  (wire (pts (xy 33.02 101.6) (xy 46.99 101.6))
-    (stroke (width 0) (type default))
-    (uuid 76543e1f-c7f2-4d8c-8e34-8a9aedb4fb5f)
   )
   (wire (pts (xy 148.59 83.82) (xy 161.29 83.82))
     (stroke (width 0) (type default))
     (uuid 76f067ee-7287-4db5-be7b-57bc7dd09c56)
   )
-  (wire (pts (xy 181.61 38.1) (xy 181.61 55.88))
+  (wire (pts (xy 181.61 29.21) (xy 181.61 38.1))
     (stroke (width 0) (type default))
     (uuid 77739f07-37a0-45d2-baec-2e49612be1dc)
+  )
+  (wire (pts (xy 67.31 91.44) (xy 67.31 109.22))
+    (stroke (width 0) (type default))
+    (uuid 780801cb-083a-4b74-aeb0-71edce2debc9)
   )
   (wire (pts (xy 176.53 144.78) (xy 176.53 115.57))
     (stroke (width 0) (type default))
     (uuid 781d1e9e-3267-4f50-a001-959dfccbf253)
+  )
+  (wire (pts (xy 207.01 91.44) (xy 207.01 109.22))
+    (stroke (width 0) (type default))
+    (uuid 784a5148-20af-45b9-949a-253af2833a4a)
   )
   (wire (pts (xy 173.99 119.38) (xy 186.69 119.38))
     (stroke (width 0) (type default))
@@ -913,11 +925,7 @@
     (stroke (width 0) (type default))
     (uuid 79cd25ca-851f-47da-9f13-28f24ca2cb6d)
   )
-  (wire (pts (xy 168.91 29.21) (xy 168.91 38.1))
-    (stroke (width 0) (type default))
-    (uuid 7a63415f-1d09-4fb1-a071-41f146269d2b)
-  )
-  (wire (pts (xy 54.61 73.66) (xy 54.61 109.22))
+  (wire (pts (xy 54.61 73.66) (xy 54.61 91.44))
     (stroke (width 0) (type default))
     (uuid 7cbf7ba8-41f1-4651-b045-7c67de71d9a7)
   )
@@ -929,17 +937,21 @@
     (stroke (width 0) (type default))
     (uuid 81645ad9-54ed-44d4-9de3-a0f0d99b8312)
   )
+  (wire (pts (xy 80.01 38.1) (xy 80.01 55.88))
+    (stroke (width 0) (type default))
+    (uuid 83931af8-e237-4820-a6cb-8d72d20a5690)
+  )
   (wire (pts (xy 201.93 132.08) (xy 201.93 115.57))
     (stroke (width 0) (type default))
     (uuid 84271918-7535-4c87-abc0-85540e03f68d)
   )
+  (wire (pts (xy 54.61 38.1) (xy 54.61 55.88))
+    (stroke (width 0) (type default))
+    (uuid 84861e08-8356-43f1-9b93-7d5548ebb279)
+  )
   (wire (pts (xy 118.11 29.21) (xy 118.11 38.1))
     (stroke (width 0) (type default))
     (uuid 848d7ab4-6fb3-4c9b-992c-0f78557a83a2)
-  )
-  (wire (pts (xy 92.71 29.21) (xy 92.71 38.1))
-    (stroke (width 0) (type default))
-    (uuid 855a12ba-2373-42f1-9b2d-013e93921219)
   )
   (wire (pts (xy 110.49 66.04) (xy 123.19 66.04))
     (stroke (width 0) (type default))
@@ -953,6 +965,14 @@
     (stroke (width 0) (type default))
     (uuid 872ba5ab-3618-4a9c-9674-1a17529ea2bf)
   )
+  (wire (pts (xy 207.01 109.22) (xy 207.01 127))
+    (stroke (width 0) (type default))
+    (uuid 88e27b28-c24a-4d65-bb3d-ddb423c43040)
+  )
+  (wire (pts (xy 92.71 38.1) (xy 92.71 55.88))
+    (stroke (width 0) (type default))
+    (uuid 89f40ba2-5946-4b32-b6d3-a8aa7579feb0)
+  )
   (wire (pts (xy 118.11 55.88) (xy 118.11 73.66))
     (stroke (width 0) (type default))
     (uuid 8a4b32a0-3ef1-4973-be90-7e89a8971524)
@@ -965,7 +985,7 @@
     (stroke (width 0) (type default))
     (uuid 8f365b30-5b2b-45b4-920f-89d265150a4f)
   )
-  (wire (pts (xy 80.01 38.1) (xy 80.01 55.88))
+  (wire (pts (xy 80.01 29.21) (xy 80.01 38.1))
     (stroke (width 0) (type default))
     (uuid 8fc73485-fdd1-4f66-a51b-57335259332d)
   )
@@ -977,15 +997,11 @@
     (stroke (width 0) (type default))
     (uuid 90b57e03-d7ff-42f2-9769-99ccff716acd)
   )
-  (wire (pts (xy 143.51 38.1) (xy 143.51 55.88))
-    (stroke (width 0) (type default))
-    (uuid 9269859f-e00f-40f4-bb96-b904f16d6587)
-  )
   (wire (pts (xy 223.52 36.83) (xy 223.52 38.1))
     (stroke (width 0) (type default))
     (uuid 930cf2e4-b781-4ec7-88c6-8bf6e4434194)
   )
-  (wire (pts (xy 31.75 72.39) (xy 31.75 73.66))
+  (wire (pts (xy 31.75 90.17) (xy 31.75 91.44))
     (stroke (width 0) (type default))
     (uuid 9379b2e1-41a6-42cf-b97b-57269fbc8e0c)
   )
@@ -1000,10 +1016,6 @@
   (wire (pts (xy 97.79 66.04) (xy 110.49 66.04))
     (stroke (width 0) (type default))
     (uuid 94a9a8a8-d30e-4dde-8385-1dbc5c7644e1)
-  )
-  (wire (pts (xy 168.91 91.44) (xy 168.91 109.22))
-    (stroke (width 0) (type default))
-    (uuid 965b32ce-5501-49e9-ad82-8f0bd1e3a89a)
   )
   (wire (pts (xy 46.99 132.08) (xy 49.53 132.08))
     (stroke (width 0) (type default))
@@ -1025,9 +1037,9 @@
     (stroke (width 0) (type default))
     (uuid 99e2b302-4335-4d05-9b91-ab7257ac7d3a)
   )
-  (wire (pts (xy 41.91 55.88) (xy 41.91 72.39))
+  (wire (pts (xy 54.61 109.22) (xy 54.61 127))
     (stroke (width 0) (type default))
-    (uuid 99fb67b8-ea52-43c5-b87a-7275d3bf4dad)
+    (uuid 9a154fe0-7bb0-44d8-a5bd-3e8d9ec6553a)
   )
   (wire (pts (xy 123.19 115.57) (xy 123.19 114.3))
     (stroke (width 0) (type default))
@@ -1036,10 +1048,6 @@
   (wire (pts (xy 224.79 90.17) (xy 194.31 90.17))
     (stroke (width 0) (type default))
     (uuid 9d87d475-e8c5-4570-8aff-bcd129ece74b)
-  )
-  (wire (pts (xy 118.11 73.66) (xy 118.11 91.44))
-    (stroke (width 0) (type default))
-    (uuid 9ea4e4d2-f768-4495-a03c-32d98b3b3169)
   )
   (wire (pts (xy 85.09 48.26) (xy 97.79 48.26))
     (stroke (width 0) (type default))
@@ -1069,13 +1077,17 @@
     (stroke (width 0) (type default))
     (uuid a2edee49-0a4e-4ca3-89de-0ce1afc417c3)
   )
-  (wire (pts (xy 181.61 29.21) (xy 181.61 38.1))
+  (wire (pts (xy 118.11 91.44) (xy 118.11 109.22))
     (stroke (width 0) (type default))
-    (uuid a36ed0ea-749d-4ad5-9111-ec8e86307020)
+    (uuid a429fccb-a2c8-416b-865e-600510917a9d)
   )
   (wire (pts (xy 118.11 127) (xy 118.11 139.7))
     (stroke (width 0) (type default))
     (uuid a46fa0a2-7774-4540-8bdc-1b7a86510883)
+  )
+  (wire (pts (xy 46.99 101.6) (xy 59.69 101.6))
+    (stroke (width 0) (type default))
+    (uuid aa6847cc-5623-4c1a-9db8-6097a9fd8702)
   )
   (wire (pts (xy 72.39 115.57) (xy 72.39 114.3))
     (stroke (width 0) (type default))
@@ -1092,10 +1104,6 @@
   (wire (pts (xy 33.02 66.04) (xy 46.99 66.04))
     (stroke (width 0) (type default))
     (uuid ac6cf172-78bc-45c1-855e-8b1e40696829)
-  )
-  (wire (pts (xy 67.31 91.44) (xy 67.31 109.22))
-    (stroke (width 0) (type default))
-    (uuid ad31fbef-b902-4cea-8bd5-d4a0b744df58)
   )
   (wire (pts (xy 168.91 73.66) (xy 168.91 91.44))
     (stroke (width 0) (type default))
@@ -1121,13 +1129,17 @@
     (stroke (width 0) (type default))
     (uuid b221d5c7-d1d6-4e7b-a03a-2ee8844d6ad9)
   )
-  (wire (pts (xy 31.75 72.39) (xy 41.91 72.39))
+  (wire (pts (xy 31.75 90.17) (xy 41.91 90.17))
     (stroke (width 0) (type default))
     (uuid b48fb87f-eff2-4e70-af6a-2fa51c55f89a)
   )
   (wire (pts (xy 123.19 132.08) (xy 125.73 132.08))
     (stroke (width 0) (type default))
     (uuid b631dc55-e351-4739-8551-67136b574b73)
+  )
+  (wire (pts (xy 41.91 90.17) (xy 41.91 91.44))
+    (stroke (width 0) (type default))
+    (uuid b63cc21a-50fc-4529-a952-e50c388d4fa9)
   )
   (wire (pts (xy 46.99 119.38) (xy 59.69 119.38))
     (stroke (width 0) (type default))
@@ -1140,6 +1152,18 @@
   (wire (pts (xy 189.23 144.78) (xy 189.23 132.08))
     (stroke (width 0) (type default))
     (uuid b8b8f117-61ce-4cac-b031-0b8baebd32d6)
+  )
+  (wire (pts (xy 46.99 96.52) (xy 46.99 97.79))
+    (stroke (width 0) (type default))
+    (uuid b901de78-9a1c-4663-ad97-0d4f3fc4e52c)
+  )
+  (wire (pts (xy 194.31 109.22) (xy 194.31 127))
+    (stroke (width 0) (type default))
+    (uuid bd4b9ab8-c58d-40bd-b785-29cdd3a548ef)
+  )
+  (wire (pts (xy 194.31 73.66) (xy 194.31 90.17))
+    (stroke (width 0) (type default))
+    (uuid bfc9ead9-32e2-4d45-97e6-9b6a2fe29354)
   )
   (wire (pts (xy 189.23 115.57) (xy 186.69 115.57))
     (stroke (width 0) (type default))
@@ -1181,15 +1205,11 @@
     (stroke (width 0) (type default))
     (uuid c972e5e9-7862-45df-b9e6-3271c4e01e3d)
   )
-  (wire (pts (xy 54.61 29.21) (xy 54.61 38.1))
-    (stroke (width 0) (type default))
-    (uuid ca2bee74-d446-43db-b7ee-10e7f1ca79dc)
-  )
   (wire (pts (xy 186.69 119.38) (xy 199.39 119.38))
     (stroke (width 0) (type default))
     (uuid ca8f1faa-d14b-4be6-b7de-a93c21a43906)
   )
-  (wire (pts (xy 118.11 91.44) (xy 118.11 109.22))
+  (wire (pts (xy 118.11 73.66) (xy 118.11 91.44))
     (stroke (width 0) (type default))
     (uuid cae81133-e410-43e2-aeb5-ac8c9338ca3f)
   )
@@ -1197,21 +1217,13 @@
     (stroke (width 0) (type default))
     (uuid cbe5a042-944f-4a81-acb1-16c507d2f2cb)
   )
-  (wire (pts (xy 156.21 29.21) (xy 156.21 38.1))
+  (wire (pts (xy 67.31 38.1) (xy 67.31 55.88))
     (stroke (width 0) (type default))
-    (uuid cc2bcc75-6a86-4f28-951c-18682abde36b)
+    (uuid cd56d762-f5bf-4811-afb2-54738b5f34c2)
   )
   (wire (pts (xy 72.39 48.26) (xy 85.09 48.26))
     (stroke (width 0) (type default))
     (uuid cee2a1a7-03ec-4f0d-a4ae-ad3a8d80a62c)
-  )
-  (wire (pts (xy 194.31 91.44) (xy 194.31 109.22))
-    (stroke (width 0) (type default))
-    (uuid d130b238-1955-4b1a-8e7a-5b174d62b79b)
-  )
-  (wire (pts (xy 46.99 80.01) (xy 46.99 78.74))
-    (stroke (width 0) (type default))
-    (uuid d158a088-edaf-4403-9d84-1dae48583c57)
   )
   (wire (pts (xy 123.19 144.78) (xy 125.73 144.78))
     (stroke (width 0) (type default))
@@ -1221,15 +1233,15 @@
     (stroke (width 0) (type default))
     (uuid d1dd6713-1f3f-40f4-8d6f-8edc904d3bda)
   )
-  (wire (pts (xy 41.91 73.66) (xy 41.91 91.44))
+  (wire (pts (xy 130.81 38.1) (xy 130.81 55.88))
     (stroke (width 0) (type default))
-    (uuid d27d9f47-d597-4516-b1e4-e278de21e4c3)
+    (uuid d268c6ad-797c-4484-875f-94a9d96eee70)
   )
   (wire (pts (xy 130.81 55.88) (xy 130.81 73.66))
     (stroke (width 0) (type default))
     (uuid d3684b2e-a596-4ba1-8e14-b7174ee4b3c2)
   )
-  (wire (pts (xy 67.31 38.1) (xy 67.31 55.88))
+  (wire (pts (xy 67.31 29.21) (xy 67.31 38.1))
     (stroke (width 0) (type default))
     (uuid d468fc38-f345-489a-a254-2dbd316ef25b)
   )
@@ -1249,17 +1261,9 @@
     (stroke (width 0) (type default))
     (uuid d7889864-5bb5-46cc-a6b6-45a7a889ba1f)
   )
-  (wire (pts (xy 54.61 109.22) (xy 54.61 127))
+  (wire (pts (xy 168.91 91.44) (xy 168.91 109.22))
     (stroke (width 0) (type default))
-    (uuid d8d6ca05-01cc-4859-b6f6-fdfb1a555b87)
-  )
-  (wire (pts (xy 41.91 72.39) (xy 41.91 73.66))
-    (stroke (width 0) (type default))
-    (uuid d9dddab1-53f2-4b00-80f6-06dd90b59374)
-  )
-  (wire (pts (xy 181.61 91.44) (xy 181.61 109.22))
-    (stroke (width 0) (type default))
-    (uuid da3c4513-0380-46b4-82f9-2eff1292b4f8)
+    (uuid d93258e3-1c02-423c-aa98-f24bc589c353)
   )
   (wire (pts (xy 173.99 144.78) (xy 176.53 144.78))
     (stroke (width 0) (type default))
@@ -1273,7 +1277,7 @@
     (stroke (width 0) (type default))
     (uuid de8bbb1b-6682-40f0-9bb9-80b6a06d88eb)
   )
-  (wire (pts (xy 54.61 38.1) (xy 54.61 55.88))
+  (wire (pts (xy 54.61 29.21) (xy 54.61 38.1))
     (stroke (width 0) (type default))
     (uuid e020cc61-dbf8-4b40-bd0c-1cdc3806625a)
   )
@@ -1289,11 +1293,19 @@
     (stroke (width 0) (type default))
     (uuid e568d91c-20e7-467b-b0c3-d04a305244a8)
   )
+  (wire (pts (xy 54.61 91.44) (xy 54.61 109.22))
+    (stroke (width 0) (type default))
+    (uuid e7dec2d5-cf40-4ed2-b4f1-9b30d81a38ed)
+  )
+  (wire (pts (xy 143.51 38.1) (xy 143.51 55.88))
+    (stroke (width 0) (type default))
+    (uuid e859a123-80a9-4744-b3fe-cdd5faf45148)
+  )
   (wire (pts (xy 186.69 144.78) (xy 189.23 144.78))
     (stroke (width 0) (type default))
     (uuid e86125e2-5e92-47fd-836e-c20ef818d980)
   )
-  (wire (pts (xy 194.31 55.88) (xy 194.31 73.66))
+  (wire (pts (xy 194.31 38.1) (xy 194.31 55.88))
     (stroke (width 0) (type default))
     (uuid ea1ed6c8-5b23-4bd3-ad62-fdeba0a0c6bd)
   )
@@ -1313,7 +1325,7 @@
     (stroke (width 0) (type default))
     (uuid edb24a21-f173-4fb6-97f5-f2d154cf1d8c)
   )
-  (wire (pts (xy 92.71 38.1) (xy 92.71 55.88))
+  (wire (pts (xy 92.71 29.21) (xy 92.71 38.1))
     (stroke (width 0) (type default))
     (uuid ee04c952-a733-46a1-b59b-90a1e1b223b7)
   )
@@ -1329,10 +1341,6 @@
     (stroke (width 0) (type default))
     (uuid f0838a53-a4c2-4f45-9651-6e538604558b)
   )
-  (wire (pts (xy 80.01 29.21) (xy 80.01 38.1))
-    (stroke (width 0) (type default))
-    (uuid f0db2823-6cfe-4c34-88d4-d2798767624a)
-  )
   (wire (pts (xy 59.69 119.38) (xy 72.39 119.38))
     (stroke (width 0) (type default))
     (uuid f2fe478e-eab3-4505-9661-454c828583f9)
@@ -1340,10 +1348,6 @@
   (wire (pts (xy 194.31 90.17) (xy 194.31 91.44))
     (stroke (width 0) (type default))
     (uuid f5e21dba-ca51-474b-a435-675a0b84d7b9)
-  )
-  (wire (pts (xy 194.31 29.21) (xy 194.31 38.1))
-    (stroke (width 0) (type default))
-    (uuid f6a3cb0f-df6e-45ad-b255-414ed53a12aa)
   )
   (wire (pts (xy 181.61 73.66) (xy 181.61 91.44))
     (stroke (width 0) (type default))
@@ -1361,17 +1365,13 @@
     (stroke (width 0) (type default))
     (uuid fc42d256-059d-45ff-8e3f-1d822134f692)
   )
+  (wire (pts (xy 207.01 55.88) (xy 207.01 73.66))
+    (stroke (width 0) (type default))
+    (uuid fc7b7575-8e43-46be-aa12-c15ecb888534)
+  )
   (wire (pts (xy 199.39 66.04) (xy 212.09 66.04))
     (stroke (width 0) (type default))
     (uuid fcf5e0a6-ab44-488a-873e-f355101d64cf)
-  )
-  (wire (pts (xy 33.02 83.82) (xy 46.99 83.82))
-    (stroke (width 0) (type default))
-    (uuid fd4b5df6-4b05-419b-aada-ab2275b4a80c)
-  )
-  (wire (pts (xy 207.01 38.1) (xy 207.01 55.88))
-    (stroke (width 0) (type default))
-    (uuid fda84b6f-1ccb-40ab-bb7b-e4c8813752d8)
   )
 
   (global_label "COL12" (shape input) (at 194.31 29.21 90) (fields_autoplaced)
@@ -1523,8 +1523,8 @@
     (property "Datasheet" "~" (at 95.25 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 522cfdea-8114-4f79-b8da-ead88e31e280))
-    (pin "2" (uuid c416563a-e3ef-4dc3-bc8b-2fa42e6109e0))
+    (pin "1" (uuid 17c279a5-00e9-48b3-ba8a-11ce3973cbc2))
+    (pin "2" (uuid 515ec017-2424-42e8-8b72-a0521b4f5c7b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1543,14 +1543,14 @@
     (property "Value" "D" (at 74.93 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 72.39 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e0f3b017-f70d-4356-bde5-f73124566021))
-    (pin "2" (uuid 8d468700-cf25-4b34-a24d-c0beb245e6d9))
+    (pin "1" (uuid 97431301-e52e-4760-8a54-50c698777f96))
+    (pin "2" (uuid 4c26d8cb-4580-4e3c-aedc-c38361f69347))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1575,8 +1575,8 @@
     (property "Datasheet" "~" (at 146.05 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0ca2a931-b6d1-4808-8fbc-1b129ccf32e5))
-    (pin "2" (uuid f8bb5cf0-4982-4065-8cb4-52d69b05bd97))
+    (pin "1" (uuid 2ad75c66-b797-4da4-8272-ce18eb715777))
+    (pin "2" (uuid 7dd2eac8-92f3-4b40-b410-fe18c0bcf95c))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1595,14 +1595,14 @@
     (property "Value" "D" (at 189.23 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 186.69 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 186.69 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d53c6a82-991a-4d49-8802-f38a357fc10e))
-    (pin "2" (uuid 8bd8f186-df19-48f3-b5be-743bf86621f6))
+    (pin "1" (uuid 088a9849-470a-4e01-90c6-efce68ec68dc))
+    (pin "2" (uuid 93a31c60-a683-4d2f-8f26-5afed844e1b9))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1612,23 +1612,23 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 34.29 76.2 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 34.29 93.98 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 086ca768-b5df-476d-b6c9-670ec3d22231)
-    (property "Reference" "MX30" (at 34.29 68.58 0)
+    (property "Reference" "MX30" (at 34.29 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "STEPPED_CAPS" (at 34.29 71.12 0)
+    (property "Value" "STEPPED_CAPS" (at 34.29 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_1.75u_STP_1.25" (at 34.29 76.2 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_1.75u_STP_1.25" (at 34.29 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 34.29 76.2 0)
+    (property "Datasheet" "~" (at 34.29 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f78111bf-4eb6-414a-a527-d8e6373210f7))
-    (pin "2" (uuid cfd1d1da-87cf-4f28-b34f-f5f692f18fe5))
+    (pin "1" (uuid 95dc5e79-e1c8-4aea-9508-e59ef78b1b4c))
+    (pin "2" (uuid 820f6291-7e6b-49a9-a1fe-7a37ce31e2cd))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1647,14 +1647,14 @@
     (property "Value" "D" (at 163.83 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 161.29 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 161.29 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 161.29 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c3019ef3-ce57-419c-ab69-c1ba92298da6))
-    (pin "2" (uuid b1c732ae-3757-47de-8788-204b9fad85a8))
+    (pin "1" (uuid daad02c9-aba1-4f84-81f9-be8fc98abc88))
+    (pin "2" (uuid 2afeb09b-ec30-4496-8504-c62b53abfcb0))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1679,8 +1679,8 @@
     (property "Datasheet" "~" (at 171.45 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6cb3f22b-69a6-419b-af0b-a0476ca38c86))
-    (pin "2" (uuid e20e10aa-7fef-4058-a8c2-88bbb51ad22c))
+    (pin "1" (uuid ee056814-beab-4373-9bbc-76888fc64c9c))
+    (pin "2" (uuid 5f1380f0-10c7-467a-855e-b8524215955e))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1690,7 +1690,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 146.05 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 146.05 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 124a4950-a14e-4eb0-89db-2f330ff26679)
     (property "Reference" "MX9" (at 146.05 33.02 0)
@@ -1705,8 +1705,8 @@
     (property "Datasheet" "~" (at 146.05 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c59030c-f9a8-461f-aab0-5141001a3598))
-    (pin "2" (uuid e4db7caf-1f65-4c4e-844e-9912168e72d6))
+    (pin "1" (uuid b7b05ac5-3e61-4625-ac55-5b2e4f6f6c9f))
+    (pin "2" (uuid be954af3-be9b-4b7e-932c-94e2187ea967))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1716,7 +1716,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 120.65 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 120.65 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15a9569d-72bb-4b0c-b1d6-f8e19ea2643e)
     (property "Reference" "MX7" (at 120.65 33.02 0)
@@ -1731,8 +1731,8 @@
     (property "Datasheet" "~" (at 120.65 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f9f8b86-4ecc-413b-a330-c2346646aac9))
-    (pin "2" (uuid dc5f3b19-7a80-4fda-a8a0-3246284a28d3))
+    (pin "1" (uuid 56b672d1-08e8-4095-9571-51194e32ea4d))
+    (pin "2" (uuid ee9d908d-1a64-4836-bdfe-31db71f58292))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1742,7 +1742,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 69.85 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 69.85 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16af70a8-5023-4d02-86aa-d595307d466c)
     (property "Reference" "MX46" (at 69.85 86.36 0)
@@ -1757,8 +1757,8 @@
     (property "Datasheet" "~" (at 69.85 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cddaa11b-3c26-478e-b157-77709951f63c))
-    (pin "2" (uuid 449d6226-1c36-47e1-87d8-2a88dbbefcd3))
+    (pin "1" (uuid ae5b4f2f-fba0-46db-9981-68a99a12d23b))
+    (pin "2" (uuid 734d4274-8e18-4cd1-bcf1-de84643277d6))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1777,14 +1777,14 @@
     (property "Value" "D" (at 214.63 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 212.09 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 212.09 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 48974f42-436c-413f-8b60-ff650a0f0f51))
-    (pin "2" (uuid 1ce9f23f-09bd-45b6-885c-819714912dcc))
+    (pin "1" (uuid 2d461139-a397-47b9-9c9d-ffd041710dcf))
+    (pin "2" (uuid 8b53de90-315c-4203-a1ac-93ace72943a1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1809,8 +1809,8 @@
     (property "Datasheet" "~" (at 133.35 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2313abe2-018b-46f0-9fa6-3d00cfdb73c4))
-    (pin "2" (uuid 46c0b68d-8041-448c-9e9c-a21e5500c5d9))
+    (pin "1" (uuid bc4d9fa3-b370-4c85-b701-5cdd761d7d6c))
+    (pin "2" (uuid 4654e42c-f581-4c70-ade6-d1fe7fc5f9a0))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1829,14 +1829,14 @@
     (property "Value" "D" (at 87.63 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 85.09 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 85.09 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc09c8aa-2806-451f-bb6c-c551a7b39ee5))
-    (pin "2" (uuid 7532c671-b7ff-4fe9-9666-a3745df82952))
+    (pin "1" (uuid 8b633679-684c-492d-943b-3ac211318661))
+    (pin "2" (uuid fb0aef7a-93e7-4a2e-bb24-0cef85d4cdd0))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1855,14 +1855,14 @@
     (property "Value" "D" (at 163.83 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 161.29 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 161.29 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 161.29 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 53426976-fe69-4923-bf06-a6d21baef1e7))
-    (pin "2" (uuid 247c04ab-fc6b-4016-9a2f-8b7ef158c582))
+    (pin "1" (uuid 23555196-e148-44e6-b46a-0b0a7ad71350))
+    (pin "2" (uuid 17ef61dd-0dde-4890-98d6-cf7022766213))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1887,8 +1887,8 @@
     (property "Datasheet" "~" (at 209.55 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 43cf6222-7198-4887-95d9-70263eb0af6b))
-    (pin "2" (uuid 9f87aa86-39eb-4b63-ac7b-acbc74245bda))
+    (pin "1" (uuid 35627e8e-0610-42de-b6b1-9953f65acf5a))
+    (pin "2" (uuid 50865404-2170-4099-9cfb-dbe09c84b0c8))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1913,8 +1913,8 @@
     (property "Datasheet" "~" (at 184.15 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4878a97f-a2b3-4d13-8ed0-10af9fa01a53))
-    (pin "2" (uuid 191eef21-314f-4857-a686-2c08c55c09df))
+    (pin "1" (uuid 3020fa62-97a0-4d24-8bb5-495e5c2e4b82))
+    (pin "2" (uuid 783c77e5-6abd-411f-9d8b-749190b474c4))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1933,14 +1933,14 @@
     (property "Value" "D" (at 151.13 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 148.59 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 148.59 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 148.59 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ade0007f-ff5a-4a69-bcdb-5e39a4387b7f))
-    (pin "2" (uuid 779c22e5-dede-4aa9-8054-117e2e2b2571))
+    (pin "1" (uuid f4e624e5-ae89-4dc6-81d2-5d0b63aa4d44))
+    (pin "2" (uuid e1b77b71-6e0f-4376-92ce-8380e3610a90))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1950,7 +1950,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 129.54 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 129.54 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25b576e5-52f6-43c8-b2ab-f944d1d77661)
     (property "Reference" "MX72" (at 196.85 121.92 0)
@@ -1965,8 +1965,8 @@
     (property "Datasheet" "~" (at 196.85 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6575806d-7b99-4658-bf09-18dad930bbf5))
-    (pin "2" (uuid fc6c01b8-7bb3-4e31-9439-a98976cd70bf))
+    (pin "1" (uuid 7d05ca21-f462-47a7-a55b-3555db473c8c))
+    (pin "2" (uuid d59ee986-50ea-4857-9e2a-476428353e34))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -1991,8 +1991,8 @@
     (property "Datasheet" "~" (at 133.35 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ce7bb17-eae4-417f-876d-b178bfe9fc73))
-    (pin "2" (uuid 3528802b-be8a-48f8-951e-c07744fee59b))
+    (pin "1" (uuid a2f8cc5e-7664-40dc-836c-0483797730f9))
+    (pin "2" (uuid 8871d763-47fe-443a-b306-638fa1beba78))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2011,14 +2011,14 @@
     (property "Value" "D" (at 138.43 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 135.89 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 135.89 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c38c91e-bd90-4318-baaa-6607664541cc))
-    (pin "2" (uuid e2172219-fa39-4feb-b450-b5340c111531))
+    (pin "1" (uuid 7c5d2954-c0aa-4e9f-a2d2-dea48b368ea7))
+    (pin "2" (uuid c3e6fd77-2473-462c-ba0c-da1fa97a9466))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2028,7 +2028,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 184.15 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 184.15 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c368d14-4768-462d-9c50-30020068d52d)
     (property "Reference" "MX55" (at 184.15 86.36 0)
@@ -2043,8 +2043,8 @@
     (property "Datasheet" "~" (at 184.15 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a323524-8e1e-4e1e-94ec-6501d74e6f8a))
-    (pin "2" (uuid 9dc3a072-c3d7-4335-809e-f392f5e8b67b))
+    (pin "1" (uuid e7d6f305-cb9a-439e-ade3-8c88c1aca0e8))
+    (pin "2" (uuid f94a7b41-0e21-4580-a766-eff16f8745a6))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2063,14 +2063,14 @@
     (property "Value" "D" (at 113.03 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 110.49 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 110.49 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d8f3d708-8b99-4f25-82dc-dcb29532787a))
-    (pin "2" (uuid 409b2a17-ea9b-41d1-b2cc-fe9d1d1227ab))
+    (pin "1" (uuid 03e155ca-cabf-4aa7-8685-9f36c1c7b7e2))
+    (pin "2" (uuid f269bbb8-f0ae-4238-b62c-743939eb05f1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2089,14 +2089,14 @@
     (property "Value" "D" (at 151.13 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 148.59 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 148.59 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 148.59 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85b8b7a8-a229-448c-9bd2-6ae67d1c4e94))
-    (pin "2" (uuid be198244-2faf-4381-af2d-7f3e9f17d574))
+    (pin "1" (uuid a8eab296-4e75-49c8-bd3c-a52205bde754))
+    (pin "2" (uuid a918e763-eef1-42e1-a170-29766b99130f))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2121,8 +2121,8 @@
     (property "Datasheet" "~" (at 120.65 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6171b3f7-51bb-4d16-8de0-3207c7b60fb6))
-    (pin "2" (uuid c25a3cc8-41cd-4eff-83d1-772b7cb74889))
+    (pin "1" (uuid 3db7c784-cce2-44b1-b788-1053063d6587))
+    (pin "2" (uuid 70cc9c16-bdcf-4611-9afc-0213524b7b0d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2141,14 +2141,14 @@
     (property "Value" "D" (at 100.33 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 97.79 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 87951e5e-9910-47d4-b932-3aa8b48328a9))
-    (pin "2" (uuid 870842e5-fe1c-48e8-8c70-802bf06da992))
+    (pin "1" (uuid 356f6c3a-100d-4fa6-8e41-76dbd33a9670))
+    (pin "2" (uuid e309b123-c3c8-4207-b377-d289714d0ffa))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2158,7 +2158,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 58.42 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 58.42 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 350c1839-524a-495f-b8d3-650c830a9321)
     (property "Reference" "MX28" (at 196.85 50.8 0)
@@ -2173,8 +2173,8 @@
     (property "Datasheet" "~" (at 196.85 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c01f6354-70da-45cf-9fdd-2ca360fb05af))
-    (pin "2" (uuid dc9d6492-0404-43df-907d-ecfe8b66e9d5))
+    (pin "1" (uuid 1a4502a3-dd5b-461e-a838-a83e5c1e62f1))
+    (pin "2" (uuid 373746e4-6dc0-453b-8c9f-488a07863e0e))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2184,7 +2184,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 129.54 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 129.54 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 388f6d6d-8c84-49e2-b83c-1f4596f0d2d6)
     (property "Reference" "MX73" (at 209.55 121.92 0)
@@ -2199,8 +2199,8 @@
     (property "Datasheet" "~" (at 209.55 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c182140d-984a-43de-be2c-0230b8d7e792))
-    (pin "2" (uuid d113066f-afa4-4aa7-9fe3-aaec79a3fb49))
+    (pin "1" (uuid e29a21fb-cb62-49a2-8ab8-8e9d8d0c56c1))
+    (pin "2" (uuid 770b5b29-c307-4780-b75b-f94a4328f2f1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2219,14 +2219,14 @@
     (property "Value" "D" (at 189.23 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 186.69 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 186.69 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21629076-b0af-4506-bdba-d948ba46f75b))
-    (pin "2" (uuid 47bdf4c9-7e68-4bc3-baff-afc422d5b866))
+    (pin "1" (uuid dd94d727-8093-4c6b-a291-35a0117c375e))
+    (pin "2" (uuid c3cb35fb-9696-4443-9f69-25393da92fca))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2236,23 +2236,23 @@
     )
   )
 
-  (symbol (lib_id "Device:D_Small") (at 46.99 99.06 90) (unit 1)
+  (symbol (lib_id "Device:D_Small") (at 59.69 99.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3952d6e1-8b01-4a17-b30b-717a6add49bd)
-    (property "Reference" "D43" (at 49.53 97.79 90)
+    (property "Reference" "D43" (at 62.23 97.79 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "D" (at 49.53 100.33 90)
+    (property "Value" "D" (at 62.23 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 46.99 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 59.69 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 46.99 99.06 90)
+    (property "Datasheet" "~" (at 59.69 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 034e6d86-f880-4283-be33-87d81157b7a2))
-    (pin "2" (uuid b52fd418-89f4-4a8e-9f7e-f4438a961b73))
+    (pin "1" (uuid 34d2652d-5aaf-4969-bcd9-79b1f3e06c08))
+    (pin "2" (uuid 958bc5bd-7119-4e4c-aa2c-a8dedfc736fe))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2262,7 +2262,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 120.65 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 120.65 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 39be71af-e588-4e09-bc58-98bced82cf42)
     (property "Reference" "MX50" (at 120.65 86.36 0)
@@ -2277,8 +2277,8 @@
     (property "Datasheet" "~" (at 120.65 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f90d1a06-acf4-47fd-bd27-2ec7dab2db30))
-    (pin "2" (uuid c5e187bf-bdf5-4abb-b3ba-77c97d462cb7))
+    (pin "1" (uuid b064e74c-9617-4521-a1f9-27b8c3065b6e))
+    (pin "2" (uuid 71656273-b042-4fa8-b3dc-9792f2db0979))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2321,14 +2321,14 @@
     (property "Value" "D" (at 113.03 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 110.49 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 110.49 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93630364-ac5a-42b6-9bc3-438eea6c5d84))
-    (pin "2" (uuid 2e984f5b-feb4-4639-9f5e-3e5af74de511))
+    (pin "1" (uuid cee1d01e-b85f-4b0b-b4f8-7ed03cffbc05))
+    (pin "2" (uuid 83247115-4df2-4eb8-8c66-0b5a622653d4))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2347,14 +2347,14 @@
     (property "Value" "D" (at 62.23 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 59.69 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 59.69 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 59.69 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bdece7c-ed28-4c5c-8f2d-a2975c3545e4))
-    (pin "2" (uuid 1928cda2-7aa6-4518-953b-5d8b530ca2b0))
+    (pin "1" (uuid 00b0e6e8-3fd1-4c1a-b0ed-20ac41bd9421))
+    (pin "2" (uuid 94cffad6-b23d-4138-8349-1f69246efae3))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2397,14 +2397,14 @@
     (property "Value" "D" (at 100.33 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 97.79 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ffe27b63-a422-4fb5-a9f0-03176593c2b4))
-    (pin "2" (uuid 44a67c0d-e676-4b8a-aadc-66fe2c852753))
+    (pin "1" (uuid 25002b22-5cd0-4e2c-87c1-619c4f86b6db))
+    (pin "2" (uuid fcd5190c-a2e4-4d4e-9db3-fec656487776))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2414,7 +2414,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 171.45 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 171.45 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41db5ae1-e4ee-4f09-9acf-4318dd8a1ca4)
     (property "Reference" "MX11" (at 171.45 33.02 0)
@@ -2429,8 +2429,8 @@
     (property "Datasheet" "~" (at 171.45 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9980135e-3bfc-4b8d-baf5-91a92de8d77a))
-    (pin "2" (uuid cea1bcf7-b946-41f4-92ec-950d95be1720))
+    (pin "1" (uuid 0e7f1877-c23c-49fe-985e-560388eb2c28))
+    (pin "2" (uuid 1553bb67-1aa0-43ff-9485-1b1796f5ca88))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2440,7 +2440,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 129.54 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 129.54 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4284b263-fa58-4d3e-806a-aefca6a19a0e)
     (property "Reference" "MX68" (at 57.15 121.92 0)
@@ -2455,8 +2455,8 @@
     (property "Datasheet" "~" (at 57.15 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b2bbb723-9631-418b-915a-4eb583ef2dc4))
-    (pin "2" (uuid da7dac5a-0315-431a-91b7-d36f3f980b1b))
+    (pin "1" (uuid 4e69c881-df4a-4e5c-8f30-ef1443e5c6fb))
+    (pin "2" (uuid 19725043-0e33-4496-af46-5e995f0ecf55))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2475,14 +2475,14 @@
     (property "Value" "D" (at 176.53 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 173.99 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 173.99 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 45d112af-6d39-47cf-a163-330ce8956160))
-    (pin "2" (uuid f06b7117-52bb-4f05-9ac3-02d2297467bf))
+    (pin "1" (uuid a592be87-c5c0-4575-a49a-67bfc1c7bc0e))
+    (pin "2" (uuid 1cc2d1cf-81a5-4abd-884f-1b42705c09e5))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2501,14 +2501,14 @@
     (property "Value" "D" (at 74.93 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 72.39 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f6ad774-c8db-4cfa-91fb-ede7dc9934f4))
-    (pin "2" (uuid ea4699f9-d44c-4e8c-8e07-202fe4d13e71))
+    (pin "1" (uuid f7736422-7267-4987-9dc4-60a85911a1aa))
+    (pin "2" (uuid 84203a18-0ded-4cee-afb6-4f21e54155c9))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2527,14 +2527,14 @@
     (property "Value" "D" (at 49.53 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 46.99 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 46.99 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 46.99 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af87cae1-ec1e-43dd-ba57-b80c36e8ec94))
-    (pin "2" (uuid 23321267-5c2c-4d47-a7eb-b8169b3f51c2))
+    (pin "1" (uuid c28eb44d-c8ce-4a10-b3d3-5f722df13269))
+    (pin "2" (uuid e33bcefc-92b0-4ccf-8001-08c11fb6a763))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2544,7 +2544,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 107.95 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 107.95 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4ca6d2c5-13d3-4e24-9448-1a5850642802)
     (property "Reference" "MX6" (at 107.95 33.02 0)
@@ -2559,8 +2559,8 @@
     (property "Datasheet" "~" (at 107.95 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f08c0d81-843c-4927-9d23-863edcd270a1))
-    (pin "2" (uuid 42492bc1-459d-4b3b-a2dd-1121e41495d1))
+    (pin "1" (uuid 5325e3da-fc5b-475e-b4f8-dc1b0bf630c4))
+    (pin "2" (uuid 429016f8-2bbb-4117-9741-2b499391767d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2570,7 +2570,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 158.75 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 158.75 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d1fcac4-83f6-4d49-9fdf-63fb7e6f6f91)
     (property "Reference" "MX53" (at 158.75 86.36 0)
@@ -2585,8 +2585,8 @@
     (property "Datasheet" "~" (at 158.75 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2d320bb4-4001-4ba9-820f-546e942e0726))
-    (pin "2" (uuid 9fddb6ef-666c-44e9-97a1-bd472da5eb03))
+    (pin "1" (uuid 9983ca14-75f9-4874-84ae-9039b3452316))
+    (pin "2" (uuid 5e35f8b4-b367-421f-9e07-c0d02b2cf81b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2605,14 +2605,14 @@
     (property "Value" "D" (at 201.93 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 199.39 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 199.39 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7742ea02-229d-472d-bcbc-37206e186c84))
-    (pin "2" (uuid 9db3dbba-756a-4684-bb10-a3641fb19737))
+    (pin "1" (uuid 1d77e33f-8702-4a30-8c57-b0a982e7b775))
+    (pin "2" (uuid 5e26fb72-c77e-4bac-be7c-7b4e63bc0d7b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2637,8 +2637,8 @@
     (property "Datasheet" "~" (at 57.15 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 31106f7e-b784-4c93-9dd1-871d214b4870))
-    (pin "2" (uuid 1016f60b-39d3-4304-bbef-066c7cfdef56))
+    (pin "1" (uuid 476bd39a-e0bf-42a6-a99f-b7531dc173e5))
+    (pin "2" (uuid 07542131-ca1d-411f-966f-7b975c944199))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2657,14 +2657,14 @@
     (property "Value" "D" (at 125.73 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 123.19 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 123.19 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d18dd76a-b36b-4fb7-9fe5-788a87267e3c))
-    (pin "2" (uuid 6cb731f1-bdc3-484d-a085-521f54874607))
+    (pin "1" (uuid ade28cf2-9d76-45ae-87b5-3715ad08e174))
+    (pin "2" (uuid 5c92ac14-7706-426d-90b0-3ff09f0d2995))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2683,14 +2683,14 @@
     (property "Value" "D" (at 125.73 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 123.19 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 123.19 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cd43455-c07c-4abe-ac46-c9b1c9ae6de0))
-    (pin "2" (uuid deaaa2e7-abd3-449e-bdd7-364e5813c4e0))
+    (pin "1" (uuid 43ec1931-20e4-4766-903e-172db8af9831))
+    (pin "2" (uuid 522b2c05-e9c0-419c-bd63-31699cf1ee6d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2700,7 +2700,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 171.45 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 171.45 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 569966b9-11ad-4646-a004-bc46da4ec7de)
     (property "Reference" "MX54" (at 171.45 86.36 0)
@@ -2715,8 +2715,8 @@
     (property "Datasheet" "~" (at 171.45 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ca8b60b-2323-41d7-b192-2889fc541dd7))
-    (pin "2" (uuid 328fd7e0-c103-4a9b-b10e-8b4111005e71))
+    (pin "1" (uuid 12c581bf-74c8-494f-b645-6c4070651a03))
+    (pin "2" (uuid a4bbd5fe-39c8-480a-98f6-2264cc7b5a44))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2741,8 +2741,8 @@
     (property "Datasheet" "~" (at 226.06 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f7550c91-4993-4987-8416-b781beac1d0d))
-    (pin "2" (uuid 216fb10e-ace8-4117-a59d-984328574379))
+    (pin "1" (uuid 620c4805-7621-4f53-9970-1083d153be69))
+    (pin "2" (uuid 0eaaf9e0-41bd-4503-87b0-7794d46bc0b6))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2767,8 +2767,8 @@
     (property "Datasheet" "~" (at 69.85 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 288c8f6d-a6e1-41db-8255-b0d8b981aac7))
-    (pin "2" (uuid 4752140a-b1eb-4aec-bdf3-db8ffff034dc))
+    (pin "1" (uuid 61ad7c67-24f3-458d-9665-fce452f229af))
+    (pin "2" (uuid 8b5b1b35-659e-48ae-9252-e11d0a6c0259))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2787,14 +2787,14 @@
     (property "Value" "D" (at 151.13 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 148.59 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 148.59 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 148.59 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2fb1970a-ac53-4766-9b08-650aada135ee))
-    (pin "2" (uuid 747cb252-9481-4cc4-b423-af06ca54d5aa))
+    (pin "1" (uuid c9962f47-604a-4afe-af22-691a95e31a05))
+    (pin "2" (uuid eb65345c-b5b8-4a7c-861d-d0894ca6f7b4))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2813,14 +2813,14 @@
     (property "Value" "D" (at 189.23 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 186.69 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 186.69 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eafc063b-f39d-4472-9673-d704372ec953))
-    (pin "2" (uuid 6dc17d71-9d62-4497-a238-f14746676fdd))
+    (pin "1" (uuid 77d0811f-a36a-4cfe-b394-ed19ac5979c9))
+    (pin "2" (uuid e6817e81-feb2-4f7a-a739-86e1d572840f))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2830,7 +2830,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 95.25 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 95.25 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61aabf56-0518-4c50-8dd9-113568395268)
     (property "Reference" "MX48" (at 95.25 86.36 0)
@@ -2845,8 +2845,8 @@
     (property "Datasheet" "~" (at 95.25 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4510299c-95d7-4e4a-ae7a-843b43454ecf))
-    (pin "2" (uuid 2df07fae-57d4-4483-8d09-a8e15839a8f7))
+    (pin "1" (uuid 6cfb90e8-5386-4876-ae07-2669ce8e61ae))
+    (pin "2" (uuid f89d2ffd-5aa5-4d8f-879d-d2064e030220))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2865,14 +2865,14 @@
     (property "Value" "D" (at 201.93 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 199.39 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 199.39 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 30f4eb54-9327-429f-8d04-a9260ea967e7))
-    (pin "2" (uuid 6ebcbcbf-ff18-41cf-a5fc-f60ce2eb3326))
+    (pin "1" (uuid c0a35f9f-a27d-4fb7-a0ed-efe60b0bd27c))
+    (pin "2" (uuid d0ad3a2c-aab6-4014-b8ed-dc42d753b0f4))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2891,14 +2891,14 @@
     (property "Value" "D" (at 100.33 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 97.79 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2cb6d81-dc92-489e-9dcc-5ac2e45bafd0))
-    (pin "2" (uuid b44dcade-5d61-4842-ac7c-640f054b05ed))
+    (pin "1" (uuid 865b2878-3435-4338-a9fa-4c5de2629e60))
+    (pin "2" (uuid e89aa3ea-24c7-43b8-8b28-e8ee0fa297ad))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2923,8 +2923,8 @@
     (property "Datasheet" "~" (at 171.45 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 419343e1-06da-4d0b-beba-2c401cc7988d))
-    (pin "2" (uuid 92596166-c84e-49b9-be58-6c630007db6a))
+    (pin "1" (uuid f7befb9a-8efd-4d22-b5d9-d5055ae564bc))
+    (pin "2" (uuid be6f56a6-68f0-4041-a09b-5befd11d9cba))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2934,7 +2934,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 158.75 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 158.75 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 655bef3c-3d31-45f0-8054-651887242d09)
     (property "Reference" "MX10" (at 158.75 33.02 0)
@@ -2949,8 +2949,8 @@
     (property "Datasheet" "~" (at 158.75 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6248e57c-6dea-44b4-b4e8-2e14bba903f5))
-    (pin "2" (uuid e424ea82-4c28-4b12-8272-9793182debd2))
+    (pin "1" (uuid ad6a26df-2b19-4f94-ba9e-c3c716320541))
+    (pin "2" (uuid 97cbde32-d53e-456e-b901-77d289cee6c8))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -2969,14 +2969,14 @@
     (property "Value" "D" (at 87.63 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 85.09 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 85.09 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d08b7b40-63fe-40d7-830c-5b4b6b01bc64))
-    (pin "2" (uuid da884f70-1f30-4a65-a8c3-955d08057952))
+    (pin "1" (uuid 82380f28-cf9f-43d5-8d1d-826ef0d228be))
+    (pin "2" (uuid 48e680a9-c2b1-4557-98fc-cfb5fcd6082c))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3001,8 +3001,8 @@
     (property "Datasheet" "~" (at 171.45 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 933c278f-bb4c-4744-8408-74be56a8baaf))
-    (pin "2" (uuid f73101f8-1134-47d5-9d80-168d63e814ba))
+    (pin "1" (uuid b72c55ee-3af9-4fee-a33e-ceb02c7b40e0))
+    (pin "2" (uuid d3e04f76-6d98-4b1c-b91c-13e34b3565be))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3021,14 +3021,14 @@
     (property "Value" "D" (at 214.63 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 212.09 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 212.09 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 186aaa06-9b33-417c-9568-aa759adec774))
-    (pin "2" (uuid 51ec1de9-c561-47ff-9c66-5ca1bb5040ea))
+    (pin "1" (uuid dcdb9265-b0a6-417c-908e-9cec0ee9b1e9))
+    (pin "2" (uuid 81eb8b26-07c7-4f07-8758-a0f5bdd22a5f))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3053,8 +3053,8 @@
     (property "Datasheet" "~" (at 146.05 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0046a997-c924-488a-a28e-e70899eb305d))
-    (pin "2" (uuid cba2d8fa-a9a5-4cfb-b5f5-4def1fb3c8cb))
+    (pin "1" (uuid f61817f6-1514-4184-8ae8-f8909cbe544e))
+    (pin "2" (uuid 4e0ff3a3-8199-44d3-a0c2-41bab3fb761e))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3079,8 +3079,8 @@
     (property "Datasheet" "~" (at 120.65 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e579ce35-fd01-49c2-81b8-5ae53c36a1de))
-    (pin "2" (uuid e66c6fa3-62ea-4e29-acce-6a8beeef3dd7))
+    (pin "1" (uuid be01ef05-6996-446f-8851-57b5a16e4e4b))
+    (pin "2" (uuid ffef9034-a534-4aa3-9b50-4853c40a71fc))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3099,14 +3099,14 @@
     (property "Value" "D" (at 74.93 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 72.39 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 443ec694-5177-4932-bc0e-ad9eb37ac371))
-    (pin "2" (uuid 7c39741d-b925-4f64-9fa7-21ed4239a431))
+    (pin "1" (uuid f6c77dff-31dd-4aa3-9015-31ee8c8364dd))
+    (pin "2" (uuid 85b8a9ab-0016-4c1d-8dce-189949797260))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3125,14 +3125,14 @@
     (property "Value" "D" (at 176.53 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 173.99 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 173.99 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28c9b5ed-188f-4a53-850f-ba0f1ed0c9f3))
-    (pin "2" (uuid 56c6e50f-0228-453e-9370-0b78cfd43022))
+    (pin "1" (uuid aa7aab5f-8a60-466a-869a-907560f223ef))
+    (pin "2" (uuid 862dd4a9-ff7a-4272-a60c-cded6eb35822))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3151,14 +3151,14 @@
     (property "Value" "D" (at 62.23 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 59.69 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 59.69 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 59.69 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dfd12734-6ec6-4c46-92f6-481bc3360a81))
-    (pin "2" (uuid 379c6f68-b9b6-47ed-946d-50acec6598a0))
+    (pin "1" (uuid 265e03f3-ff65-461c-a2f2-b1f6fa7694b3))
+    (pin "2" (uuid eebf9697-89b5-4322-bfc8-1eeb8bcecc0d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3168,23 +3168,23 @@
     )
   )
 
-  (symbol (lib_id "Device:D_Small") (at 46.99 81.28 90) (unit 1)
+  (symbol (lib_id "Device:D_Small") (at 46.99 99.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77d95e71-d91e-495b-b8f5-70ffee410e2c)
-    (property "Reference" "D29" (at 49.53 80.01 90)
+    (property "Reference" "D29" (at 49.53 97.79 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "D" (at 49.53 82.55 90)
+    (property "Value" "D" (at 49.53 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 46.99 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 46.99 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 46.99 81.28 90)
+    (property "Datasheet" "~" (at 46.99 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e43cac25-585b-4711-85ef-f01bd3d419b6))
-    (pin "2" (uuid f44a4f0f-2ded-46eb-bd48-f99d40458b64))
+    (pin "1" (uuid 88b8f8ae-b3c4-41b1-9a4f-f29e47d0f676))
+    (pin "2" (uuid 1047efd8-516e-4912-ae40-f3c545e5221b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3203,14 +3203,14 @@
     (property "Value" "D" (at 138.43 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 135.89 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 135.89 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf2175e6-82f8-4782-bc1f-a73f4b81607c))
-    (pin "2" (uuid 3c1a2a3f-6fee-4333-a20b-3eef6b382444))
+    (pin "1" (uuid 76f7c686-7b17-4d19-b78e-17d78ac8be8d))
+    (pin "2" (uuid dd705511-a7e8-4c36-bee8-5179a3f8d6c1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3235,8 +3235,8 @@
     (property "Datasheet" "~" (at 120.65 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a5c3f8c-2b9c-48a7-9c72-0a850cd52b50))
-    (pin "2" (uuid 6fdfa539-516b-41aa-9894-d42ae40892c3))
+    (pin "1" (uuid fd709cdc-48bd-452f-be43-375ad762c60a))
+    (pin "2" (uuid 72ce4fd5-35fe-46d7-9f56-eff0b87c4133))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3261,8 +3261,8 @@
     (property "Datasheet" "~" (at 69.85 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b874f597-c6c7-411e-a60b-01f24c12f42e))
-    (pin "2" (uuid 3ff9d12e-a438-4852-9b97-4041850991fc))
+    (pin "1" (uuid beb0df16-a043-47e8-abf0-c47bbb290620))
+    (pin "2" (uuid b827c50e-429b-45a6-a6b3-fdd1d727a3a5))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3281,14 +3281,14 @@
     (property "Value" "D" (at 74.93 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 72.39 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 33cfa4c7-0847-45cc-8d6a-41a91e0743b2))
-    (pin "2" (uuid d53f9daa-b80f-4382-9993-780c4ef1fd43))
+    (pin "1" (uuid 993c6fbe-b8a9-4c8e-bd59-cc9b9a9158c5))
+    (pin "2" (uuid fb424d9f-6cda-419c-8f4c-a1275c085b22))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3298,7 +3298,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 111.76 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 111.76 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 81e89f97-7559-4634-85c6-079e117afb25)
     (property "Reference" "MX66" (at 209.55 104.14 0)
@@ -3313,8 +3313,8 @@
     (property "Datasheet" "~" (at 209.55 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f41024f0-d9d9-4add-83c2-54c1445f4cb3))
-    (pin "2" (uuid e77014f8-0627-403e-ac98-b5e71f5e4cf0))
+    (pin "1" (uuid acd01af8-4c8e-49ee-8e92-1cc54ee2f43c))
+    (pin "2" (uuid 127eebc1-a596-4df7-99c9-594990b4c184))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3324,7 +3324,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 146.05 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 146.05 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 86d26a7c-9dcb-4bb2-919a-472992eee81c)
     (property "Reference" "MX52" (at 146.05 86.36 0)
@@ -3339,8 +3339,8 @@
     (property "Datasheet" "~" (at 146.05 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aec3a539-06bf-44a1-a8ae-7ff98c36a737))
-    (pin "2" (uuid 88080a0c-8566-473c-822f-f9cabb81011d))
+    (pin "1" (uuid e8f02673-e91b-4607-9534-2fffbeec63f7))
+    (pin "2" (uuid becc1bd9-83a8-4131-bdd7-3ac624fbc310))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3359,14 +3359,14 @@
     (property "Value" "D" (at 214.63 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 212.09 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 212.09 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d20ea440-29d9-4a63-b1f0-2a478a783555))
-    (pin "2" (uuid 83e970a1-08f5-490b-a21c-b466354d7d1a))
+    (pin "1" (uuid eb0c57cb-e724-45b0-81f8-03e080374552))
+    (pin "2" (uuid e562c126-074e-4aa3-a0d5-1a98da2eb47b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3391,8 +3391,8 @@
     (property "Datasheet" "~" (at 196.85 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 90febbe6-7ff3-4c17-99d0-30513cf6b6a8))
-    (pin "2" (uuid 098d174c-2e6e-4b06-aed2-3d297253f6de))
+    (pin "1" (uuid 8e6f7213-c301-4b5b-84e3-f9e7056708de))
+    (pin "2" (uuid e78be302-c6f6-43bd-8394-32cccc0aa1c9))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3417,8 +3417,8 @@
     (property "Datasheet" "~" (at 69.85 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39c8badb-6b83-4b58-870c-64158c1e8a9c))
-    (pin "2" (uuid 2c385250-cd6b-48e2-8b41-3c2be73982df))
+    (pin "1" (uuid 3844abb4-2bcc-48f6-9a43-0185a5189797))
+    (pin "2" (uuid f5f8833f-ac87-46ea-a103-78fafcc07669))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3428,7 +3428,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 82.55 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 82.55 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 902a3c1e-1120-4c97-8ade-c9aa1ecb744a)
     (property "Reference" "MX47" (at 82.55 86.36 0)
@@ -3443,8 +3443,8 @@
     (property "Datasheet" "~" (at 82.55 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec0fafeb-d739-4b5e-bc91-ef1d9ba949b6))
-    (pin "2" (uuid 7c4eefb4-f806-469b-88a2-7a87c60fdd61))
+    (pin "1" (uuid 629733b9-96e3-4923-a55b-dab209117b79))
+    (pin "2" (uuid d8174c19-ac7c-47d3-bbc3-72044f47fead))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3463,14 +3463,14 @@
     (property "Value" "D" (at 151.13 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 148.59 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 148.59 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 148.59 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c0d1e2ca-1dc5-465f-becd-4a229a46f79d))
-    (pin "2" (uuid e2abd320-49d1-4fb6-bb9e-573202078bb0))
+    (pin "1" (uuid 9bcc313e-ceae-49f5-81d7-766f6987ef22))
+    (pin "2" (uuid 0a9fce95-c775-4ba3-b8b1-4ae60ffbb143))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3495,8 +3495,8 @@
     (property "Datasheet" "~" (at 184.15 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e820fad7-2883-4b8b-9ea7-1b12499ce248))
-    (pin "2" (uuid a0468d93-d6ab-4629-9466-8ee13284bbff))
+    (pin "1" (uuid 098f4efa-7f71-4f0b-8cf2-971dd352a974))
+    (pin "2" (uuid 523b8030-287c-4479-bdbf-f4bad6e03205))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3521,8 +3521,8 @@
     (property "Datasheet" "~" (at 69.85 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1a4fbc7-1ee4-4284-97cc-61466328c108))
-    (pin "2" (uuid dcce866a-1542-49b4-9091-889026f4fab6))
+    (pin "1" (uuid 2cc2eca6-db4c-4d8b-ad48-efc0a965ca34))
+    (pin "2" (uuid 1f17afac-8b9a-4947-9538-94bf9956c95d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3541,14 +3541,14 @@
     (property "Value" "D" (at 113.03 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 110.49 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 110.49 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0915dde-f288-4712-883f-a0134b8e0b9e))
-    (pin "2" (uuid ed9d3007-ab7d-42f7-9cb1-d97fe18ba10e))
+    (pin "1" (uuid 7b186115-8f27-458e-bf84-f25be33ea5c6))
+    (pin "2" (uuid fb5b1311-0673-405d-9cc0-a3559f0657be))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3567,14 +3567,14 @@
     (property "Value" "D" (at 49.53 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 46.99 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 46.99 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 46.99 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b186996-10d0-4ff6-87e1-44a824c4c269))
-    (pin "2" (uuid 2ad0e302-9dd8-4a37-9cc8-8b6d3b20d6d2))
+    (pin "1" (uuid 306dcd27-ae10-4644-bb1c-bb1fb5da8792))
+    (pin "2" (uuid 430ce9ac-0575-49f7-a4e9-cc8a2509e0bb))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3617,14 +3617,14 @@
     (property "Value" "D" (at 100.33 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 97.79 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 97.79 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.79 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93521aa6-a1f7-4686-b3fb-0e1ae4a403f9))
-    (pin "2" (uuid cc9ae532-0801-4015-9d88-18f609d40e10))
+    (pin "1" (uuid 917a0f23-d606-489f-963b-d96a7aceb153))
+    (pin "2" (uuid aa8bb6d2-6b24-4a16-abdd-83a7e063635d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3643,14 +3643,14 @@
     (property "Value" "D" (at 176.53 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 173.99 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 173.99 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b10b3846-2f40-46a5-9dcc-a6a270013575))
-    (pin "2" (uuid 41561c3a-3486-484d-8940-24efaac026f5))
+    (pin "1" (uuid 1edc3bb5-70cb-40b0-bb12-195c7981ad1c))
+    (pin "2" (uuid 96d42008-b9f7-4b16-977b-c3742596ba47))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3660,7 +3660,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 76.2 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 76.2 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9c799ea0-04e9-4d33-9993-e5a62ccc458b)
     (property "Reference" "MX43" (at 196.85 68.58 0)
@@ -3675,8 +3675,8 @@
     (property "Datasheet" "~" (at 196.85 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6171b6c0-0908-43bd-8b25-c2059c270eea))
-    (pin "2" (uuid cee42fc8-65ff-45b1-876a-d15c03dbc24a))
+    (pin "1" (uuid 89c6b1dc-3220-45a4-9810-2c810ad22c3f))
+    (pin "2" (uuid ea266dc6-ba48-4f99-9b39-820ccf16e3b5))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3695,14 +3695,14 @@
     (property "Value" "D" (at 62.23 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 59.69 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 59.69 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 59.69 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 96751c7f-7c63-4d38-8bea-68bf4f3c0a25))
-    (pin "2" (uuid a2619512-f328-4288-ad20-40f8f53a0b6f))
+    (pin "1" (uuid af6d4fd4-c41b-4428-991a-28de2aa84a65))
+    (pin "2" (uuid 1937d00b-9892-4ca5-b953-8bb2c4732405))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3721,14 +3721,14 @@
     (property "Value" "D" (at 87.63 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 85.09 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 85.09 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3291b83c-7f74-4d2a-9c35-d3ce20c016f3))
-    (pin "2" (uuid 355b532c-0bcf-4ab6-b67d-31adacfa6169))
+    (pin "1" (uuid f5cb8d7b-9e9b-40a9-857b-ec498ee7624a))
+    (pin "2" (uuid 6ef32556-faef-42d4-ae06-9eb73734593c))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3762,7 +3762,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 111.76 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 111.76 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a161c6d6-08b0-4259-9f6e-befad3891430)
     (property "Reference" "MX60" (at 57.15 104.14 0)
@@ -3777,8 +3777,8 @@
     (property "Datasheet" "~" (at 57.15 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 55657da4-284c-46aa-83d2-e683e44efbd1))
-    (pin "2" (uuid b9c2ec4a-08e3-4aa4-8645-fda4f8073267))
+    (pin "1" (uuid 8fa61ac7-82d5-4a86-bd6d-50752263bf08))
+    (pin "2" (uuid 54ca3b48-7b5a-4325-8e65-36956a97db31))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3788,7 +3788,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 133.35 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 133.35 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1fded5c-f724-4d08-9d76-ca6a8c1a77db)
     (property "Reference" "MX51" (at 133.35 86.36 0)
@@ -3803,8 +3803,8 @@
     (property "Datasheet" "~" (at 133.35 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f5e6f8e-0b69-4b01-b0fc-5898a409d1d0))
-    (pin "2" (uuid 8ea7b848-7903-453b-b751-c57753ee5ab6))
+    (pin "1" (uuid acf203e5-b153-4119-8a67-2886294e5852))
+    (pin "2" (uuid 214d8c84-40eb-4636-b37b-1ab881c7d994))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3814,23 +3814,23 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 44.45 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a7438014-bd9a-44e7-bcba-17b4a9dc7ca8)
-    (property "Reference" "MX45" (at 44.45 86.36 0)
+    (property "Reference" "MX45" (at 57.15 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "L_SHIFT" (at 44.45 88.9 0)
+    (property "Value" "L_SHIFT" (at 57.15 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_1u" (at 44.45 93.98 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_1u" (at 57.15 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 44.45 93.98 0)
+    (property "Datasheet" "~" (at 57.15 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2fd94ae5-8eeb-4747-bb75-b46c039f56e1))
-    (pin "2" (uuid d82e154e-dcb5-4bdc-9530-c2660e3a9479))
+    (pin "1" (uuid adecee00-9ad0-494c-97bf-8f2390d3970b))
+    (pin "2" (uuid 0d8411eb-e3c7-4feb-83b6-6afc7b8260ee))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3840,7 +3840,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a85e98e0-a0d0-40c0-a0ae-5e0e9c541558)
     (property "Reference" "MX14" (at 209.55 33.02 0)
@@ -3855,8 +3855,8 @@
     (property "Datasheet" "~" (at 209.55 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 669d4711-4d7c-4cf4-a923-4ab7b04ef7ce))
-    (pin "2" (uuid 5a39650c-a04d-4b43-8f89-dc6e6935f01a))
+    (pin "1" (uuid 9a847002-a8de-47d2-a03f-5ee05df5e47c))
+    (pin "2" (uuid 9cca521a-19cf-4208-a334-7c29aa421b39))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3875,14 +3875,14 @@
     (property "Value" "D" (at 201.93 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 199.39 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 199.39 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a17f39a7-4bc2-4d85-a5ff-518f604a7582))
-    (pin "2" (uuid 0a13af9a-2c9d-43c4-a73c-8308e56b5e4d))
+    (pin "1" (uuid 4e4b4a47-dade-4995-a3c2-a0b3a0866ee7))
+    (pin "2" (uuid 89311141-7dcd-413d-a44f-116b2bcd0b5a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3907,8 +3907,8 @@
     (property "Datasheet" "~" (at 107.95 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3b8538c-33ef-4c80-9353-9207a86fb739))
-    (pin "2" (uuid 50d46e9e-62e5-4d71-9cd0-247d0005be69))
+    (pin "1" (uuid 27eb9ebf-3902-4d42-83af-c619da8912af))
+    (pin "2" (uuid 4637afaf-73d9-4a05-9858-921e056fd45a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3927,14 +3927,14 @@
     (property "Value" "D" (at 125.73 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 123.19 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 123.19 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d12887f-c2d1-44a5-a019-62ff1b01e0fd))
-    (pin "2" (uuid 6802b494-5f16-4cc1-8573-e77a65cd7d97))
+    (pin "1" (uuid fe159b55-8756-46af-9dde-46d18f497d68))
+    (pin "2" (uuid e3521e6c-b2dc-4c41-b2ea-5ce3de111f3d))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3944,23 +3944,23 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 44.45 76.2 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 44.45 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b086dcb8-99c8-4b67-9a0b-5c701e1a72b7)
-    (property "Reference" "MX31" (at 44.45 68.58 0)
+    (property "Reference" "MX31" (at 44.45 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CAPS" (at 44.45 71.12 0)
+    (property "Value" "CAPS" (at 44.45 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "marbastlib-mx:SW_MX_1.75u" (at 44.45 76.2 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_1.75u" (at 44.45 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 44.45 76.2 0)
+    (property "Datasheet" "~" (at 44.45 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d647bd51-62ad-4b6a-a690-00130b222853))
-    (pin "2" (uuid 66474a0d-543d-4404-a9e2-0c9ffd360a35))
+    (pin "1" (uuid 43022b45-3bce-4706-94a9-497fe4a86e9a))
+    (pin "2" (uuid 4e0e85d0-d69e-4996-a397-222cdec18d7a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -3970,7 +3970,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 82.55 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 82.55 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b08f77f9-94c5-4c28-9b64-c7116ccdcf8a)
     (property "Reference" "MX4" (at 82.55 33.02 0)
@@ -3985,8 +3985,8 @@
     (property "Datasheet" "~" (at 82.55 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7b81b2c-e8fd-4497-9392-c73631bb7bfc))
-    (pin "2" (uuid 673f6fdb-e5ed-49f1-961a-6a1693022fee))
+    (pin "1" (uuid bf081d42-f073-4229-bbc7-212cfcc50a53))
+    (pin "2" (uuid 38af8c61-d933-453f-8597-768ab0a5671b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4011,8 +4011,8 @@
     (property "Datasheet" "~" (at 120.65 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2714175f-ada9-4333-a44b-f6c7343c24d6))
-    (pin "2" (uuid 081b0b23-b2ef-4aa9-b333-dcea2e5adbf2))
+    (pin "1" (uuid 5c2ddc71-dd30-4d88-842f-487e8e0e5af9))
+    (pin "2" (uuid 84cdfba8-13b6-4b2f-af1f-1c22f9fd3826))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4037,8 +4037,8 @@
     (property "Datasheet" "~" (at 44.45 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a472b9a9-309e-4a31-817e-ea6793b12490))
-    (pin "2" (uuid 64c0bcf0-5039-460a-9c75-e243e8a361ba))
+    (pin "1" (uuid ab56f142-dd9d-4850-8fb6-2a637065c2f3))
+    (pin "2" (uuid a96d766e-960d-453d-a649-3d5001215b87))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4063,8 +4063,8 @@
     (property "Datasheet" "~" (at 107.95 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fc445c0d-2e45-481d-81f0-37c5fc3343a4))
-    (pin "2" (uuid 8d70ba53-75e0-4e09-9100-ec25b4f22360))
+    (pin "1" (uuid f9328589-b0d1-4985-8cd5-4d7a7bea55e8))
+    (pin "2" (uuid 8266802d-24fe-488f-baaf-228d344d126a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4089,8 +4089,8 @@
     (property "Datasheet" "~" (at 171.45 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d4d0aa81-d49d-4606-854d-f0422db34468))
-    (pin "2" (uuid 1ba44bf4-6cb0-4c6b-97fb-9f395d832252))
+    (pin "1" (uuid 7f9bb632-3ca1-4391-b385-df01d47b6b2a))
+    (pin "2" (uuid 377be9cd-400d-4604-805e-26d5a3a4b149))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4109,14 +4109,14 @@
     (property "Value" "D" (at 113.03 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 110.49 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 110.49 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c16a4d33-45c1-40cf-b35c-c47586427c7e))
-    (pin "2" (uuid 67f25972-9fd7-46e4-8135-1f71cd5a064f))
+    (pin "1" (uuid e5cb7dac-619f-4bdc-b57f-31473c0e8872))
+    (pin "2" (uuid e1f1b681-42d7-4852-8971-296e2f02df5c))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4141,8 +4141,8 @@
     (property "Datasheet" "~" (at 95.25 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 27cef144-af19-499f-99e8-b1da022e141f))
-    (pin "2" (uuid d0f5c59c-3470-4ac0-baf9-10db6d0b320f))
+    (pin "1" (uuid fb30734d-6712-456a-8233-8632f4a7b8c8))
+    (pin "2" (uuid 3acedefe-c78c-4c6d-abbb-6f5f15daa2e1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4167,8 +4167,8 @@
     (property "Datasheet" "~" (at 120.65 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 55bc2538-35c7-450f-9a58-e5dc2d07844f))
-    (pin "2" (uuid c515acfe-bdce-49a0-b999-2133f0303e4c))
+    (pin "1" (uuid b4b2a1f5-17e1-488a-b3c5-63fbbceee6ff))
+    (pin "2" (uuid 4a75b9a3-51c2-44f8-9294-b47fcfb8eda7))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4187,14 +4187,14 @@
     (property "Value" "D" (at 121.92 118.11 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 123.19 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 123.19 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cc4a2f6-c2e4-47f2-b00b-0ddbdbe2a845))
-    (pin "2" (uuid 2cbd3595-f078-493e-a4e2-794c87ae5e94))
+    (pin "1" (uuid 9d9d30ea-6ae9-4583-9995-4285ffd0f1a5))
+    (pin "2" (uuid 352770b8-8505-4c89-b509-7a3ef1acc139))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4205,7 +4205,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 109.22 142.24 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom no) (on_board no) (dnp no)
     (uuid c0b07ea2-cb3c-4f05-b283-009005bc6d3f)
     (property "Reference" "S7" (at 102.87 140.97 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4237,14 +4237,14 @@
     (property "Value" "D" (at 125.73 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 123.19 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 123.19 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3bbddd89-1833-4247-a7a4-a5e6e6f533e1))
-    (pin "2" (uuid e10bf24f-595c-4f87-a875-819b180e8e29))
+    (pin "1" (uuid 47856f46-7dcb-4b49-be5a-7421412655a4))
+    (pin "2" (uuid 6053d7a7-4bb1-4945-9ef8-a86dfb58185b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4269,8 +4269,8 @@
     (property "Datasheet" "~" (at 227.33 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05c5a763-1586-420a-a25f-fe45d8bb685f))
-    (pin "2" (uuid a34a5ec7-e120-46c5-ad81-c271343f01f3))
+    (pin "1" (uuid d6cfb946-a0b4-4b9b-a328-71dac971ec98))
+    (pin "2" (uuid 07742dd7-9d1f-4330-af91-a90eae5b0707))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4289,14 +4289,14 @@
     (property "Value" "D" (at 49.53 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 46.99 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 46.99 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 46.99 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b97d2433-c464-4bbe-a8ab-d8d6f880308a))
-    (pin "2" (uuid 8f7396c6-51d4-428d-9098-cbf09692230a))
+    (pin "1" (uuid 6ebd2ea1-bb7b-4358-93d5-ddc54e401118))
+    (pin "2" (uuid e4b7cfb5-9c93-46b4-8f62-462b20f2d148))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4315,14 +4315,14 @@
     (property "Value" "D" (at 87.63 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 85.09 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 85.09 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c62e78f9-39ff-4402-9f45-d850bee315bb))
-    (pin "2" (uuid 27edc89c-738f-48ef-896a-4e4ef7ee405f))
+    (pin "1" (uuid e5eacc4a-9dd3-4a6f-9bcb-760b1371b457))
+    (pin "2" (uuid b9448aaa-f49b-432b-953b-f75102bb100b))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4332,7 +4332,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 69.85 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 69.85 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c83e5766-bfd2-4a91-9a1a-e3bb45115a6e)
     (property "Reference" "MX3" (at 69.85 33.02 0)
@@ -4347,8 +4347,8 @@
     (property "Datasheet" "~" (at 69.85 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2ff24e7b-d857-41fc-b500-0926b4974626))
-    (pin "2" (uuid ac3c43bf-b746-48cd-8ca6-15526ae4a05a))
+    (pin "1" (uuid 2e0aafab-0d27-4f61-80d9-9388640e0862))
+    (pin "2" (uuid 8070ead6-8101-4b13-ba6f-1477c1be6b14))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4367,14 +4367,14 @@
     (property "Value" "D" (at 176.53 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 173.99 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 173.99 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7422f8f6-14e7-4115-9b49-8b66f6d6e2d8))
-    (pin "2" (uuid df1d5585-fe7c-48b0-9900-1b85a7e28701))
+    (pin "1" (uuid 82b55660-0acf-4dfa-9e6a-5ce9ca9c4e3e))
+    (pin "2" (uuid 42fe4453-c7c1-473b-98ae-074c0461c20a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4393,14 +4393,14 @@
     (property "Value" "D" (at 189.23 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 186.69 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 186.69 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9d8219e5-8989-41a2-b191-323f8f9c95b8))
-    (pin "2" (uuid 6c01ad57-b8c3-4761-9ae9-6be94e4ee7a4))
+    (pin "1" (uuid 342c3c2d-2218-48b6-9a76-5d0b475d1409))
+    (pin "2" (uuid 6ac8f651-513d-4c2d-803a-731c4afac7a9))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4425,8 +4425,8 @@
     (property "Datasheet" "~" (at 184.15 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 355e29b5-2b57-4e5b-b334-c336a273fd53))
-    (pin "2" (uuid cacf1839-034f-40b3-8f0f-f193d0d5db1e))
+    (pin "1" (uuid c53d7c18-5424-49e0-ab65-84cebd484f4e))
+    (pin "2" (uuid 3c40fb13-3db6-4093-826f-dacc44ffde92))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4445,14 +4445,14 @@
     (property "Value" "D" (at 163.83 82.55 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 161.29 81.28 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 161.29 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 161.29 81.28 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7921a7be-c27c-4b5a-abda-e9cdf07c2c75))
-    (pin "2" (uuid 20c4aaf9-2301-474f-b883-5c77e66681ea))
+    (pin "1" (uuid b043de06-4a10-460b-b5c8-a6c04f157973))
+    (pin "2" (uuid 0929479d-c05e-4888-aea2-df919d266f9e))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4471,14 +4471,14 @@
     (property "Value" "D" (at 214.63 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 212.09 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 212.09 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1cebc694-8155-4446-b94c-0625bd3ca626))
-    (pin "2" (uuid 264c0ae7-99e0-47f0-b489-2a91bc76cc0e))
+    (pin "1" (uuid 6f74f558-6c77-4c5e-8b7b-edb41dbcb6f8))
+    (pin "2" (uuid 13d9d963-7eb5-40ca-84c2-8ccc941f7c9a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4503,8 +4503,8 @@
     (property "Datasheet" "~" (at 82.55 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7d2065d-f314-460f-8df1-01e9e81a99ea))
-    (pin "2" (uuid 06f76ff0-192b-4661-ab4c-cd0f9fc2b9cc))
+    (pin "1" (uuid c11a52ac-7c9c-409a-b3a3-c8f66d603e15))
+    (pin "2" (uuid 46cab72b-7dbe-4f3c-b777-90926a2c2e93))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4529,8 +4529,8 @@
     (property "Datasheet" "~" (at 158.75 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 83667a46-1d33-43b2-a03b-577abc2a311b))
-    (pin "2" (uuid 909a7b46-0065-4aa7-b3e9-da053ed95ab2))
+    (pin "1" (uuid 02be226d-1754-41e6-841c-baaaae89db76))
+    (pin "2" (uuid 38f297cc-13e6-4313-9709-20812d91b743))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4555,8 +4555,8 @@
     (property "Datasheet" "~" (at 209.55 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0cc0c261-14b8-456e-a83d-867b47f4e542))
-    (pin "2" (uuid 0980e6eb-6116-4012-8432-e76dde346cb5))
+    (pin "1" (uuid 4b1f2a79-366a-49c2-92c8-b02c71920c75))
+    (pin "2" (uuid df978f0b-8250-4102-9f06-b77879de54c8))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4575,14 +4575,14 @@
     (property "Value" "D" (at 189.23 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 186.69 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 186.69 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b001ffbf-506e-404a-a808-e7c6a871d859))
-    (pin "2" (uuid be5a08de-7990-4f26-92d1-5a34008a38f0))
+    (pin "1" (uuid a747d864-991a-48ad-bee4-7b69c8f14a9d))
+    (pin "2" (uuid 7797de70-664e-445f-91d9-08c3db84ad09))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4592,7 +4592,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 209.55 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de57becd-c4ea-4bd7-bb44-f17d92807138)
     (property "Reference" "MX57" (at 209.55 86.36 0)
@@ -4607,8 +4607,8 @@
     (property "Datasheet" "~" (at 209.55 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 06830f18-8105-4623-b9a0-9cc4aa70395b))
-    (pin "2" (uuid f777a02a-0b2b-44a2-8bf3-284780f6990b))
+    (pin "1" (uuid 0960e207-d22c-4dec-a491-e95e2716f73c))
+    (pin "2" (uuid 8f1ce9d5-b9c6-41d5-a483-51a8ca074b58))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4618,7 +4618,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 184.15 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 184.15 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid df20f6b8-5a5e-4563-a660-63b19150c81a)
     (property "Reference" "MX12" (at 184.15 33.02 0)
@@ -4633,8 +4633,8 @@
     (property "Datasheet" "~" (at 184.15 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 04bd8edb-bd0f-4388-ba13-b6cfd2af9174))
-    (pin "2" (uuid 09a41713-e74f-444b-a160-5944c8d61d46))
+    (pin "1" (uuid 7ffe58ff-5bee-4471-be5d-db0ca642ac17))
+    (pin "2" (uuid 4e807ed2-4fbc-472f-9e36-602e6becbe25))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4653,14 +4653,14 @@
     (property "Value" "D" (at 163.83 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 161.29 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 161.29 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 161.29 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf3490dd-04c4-4d85-8b42-ea28600fd29d))
-    (pin "2" (uuid 0bd3ba61-cc91-45fd-82a1-685ae3c823ed))
+    (pin "1" (uuid 054fddb7-8d0b-4c76-a0c6-e7dfbec1cbbd))
+    (pin "2" (uuid 619ceab1-f85d-4a6e-87a9-21c9cb3aa89e))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4679,14 +4679,14 @@
     (property "Value" "D" (at 74.93 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 72.39 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2775dcc5-031a-45d7-b47a-4769196aac97))
-    (pin "2" (uuid ad4f7fb9-7b22-4b09-a9a8-d98c6a6f65e8))
+    (pin "1" (uuid 31734d1e-24a8-42b9-abc5-e6b8da9ac6c5))
+    (pin "2" (uuid 4df631f5-a57e-4b25-8a14-d83e466cc6b7))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4705,14 +4705,14 @@
     (property "Value" "D" (at 62.23 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 59.69 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 59.69 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 59.69 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a4e302e5-c3e0-46cd-94ff-cf01180ec980))
-    (pin "2" (uuid 92e4c7ad-9ca7-426a-a5a6-346206158e7a))
+    (pin "1" (uuid ec20ca5e-6cde-4d36-a50f-d60cc053fb34))
+    (pin "2" (uuid cd9a228c-038f-47cd-97e7-d5de68166027))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4737,8 +4737,8 @@
     (property "Datasheet" "~" (at 44.45 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 29b3a367-3cf1-40a5-a671-6e5b77a5d67e))
-    (pin "2" (uuid 58781a19-577a-48f6-9145-6579728fa3f3))
+    (pin "1" (uuid e2bd579e-3ace-4ce5-b155-65ca2226998c))
+    (pin "2" (uuid 3cc20498-8483-406e-a16a-2f5095dc60bb))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4757,14 +4757,14 @@
     (property "Value" "D" (at 138.43 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 135.89 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 135.89 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 04bbf79f-584a-4b8e-8c35-c340c38104de))
-    (pin "2" (uuid c5d5b6d0-607a-4f63-a5ce-b713d1b3013f))
+    (pin "1" (uuid 6d8ad7f0-7d9f-44f2-a652-4eb82766fc37))
+    (pin "2" (uuid cbadc296-acce-4311-b35b-1b622069bc21))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4783,14 +4783,14 @@
     (property "Value" "D" (at 214.63 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 212.09 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 212.09 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 27d241a3-0a8f-49d4-8c16-bd791c22ad0e))
-    (pin "2" (uuid 4c0302ff-c340-4224-87df-7a8b067f2514))
+    (pin "1" (uuid 99fbf9a4-f456-49ff-b28c-bc6d59f1ade3))
+    (pin "2" (uuid 4ed76cdb-e379-4d33-8286-af04fcfd07ef))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4815,8 +4815,8 @@
     (property "Datasheet" "~" (at 184.15 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 43238656-c0f7-4e2b-a147-e908787adeda))
-    (pin "2" (uuid c55e75bd-60af-4ffb-afaf-8e791ebca6fb))
+    (pin "1" (uuid b15dd16e-997a-4444-b690-73aa471d6efd))
+    (pin "2" (uuid c4d2fcf7-13aa-445b-bc2d-b23269aff9ba))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4826,7 +4826,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 95.25 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 95.25 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e8ef6d97-6393-4bf3-ae91-dcb884733d21)
     (property "Reference" "MX5" (at 95.25 33.02 0)
@@ -4841,8 +4841,8 @@
     (property "Datasheet" "~" (at 95.25 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85ac8cf4-0150-4f91-b83a-9c7a42db28c9))
-    (pin "2" (uuid 73864645-1111-47d3-95d3-0761b2867e39))
+    (pin "1" (uuid fc88dd0f-9777-44bd-9991-5689fd5e234d))
+    (pin "2" (uuid ba880b1e-4bc6-410b-8926-c06c7547b11a))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4867,8 +4867,8 @@
     (property "Datasheet" "~" (at 44.45 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1dec09b0-6fe3-48ec-b127-b0380c8ef04e))
-    (pin "2" (uuid 8616d7ed-da1e-445e-b926-92ef04abead0))
+    (pin "1" (uuid a127ec32-e94e-4229-8844-fafbb518cddd))
+    (pin "2" (uuid 38f83eed-e2e3-4c04-83ee-aafdebe079ee))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4878,7 +4878,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 107.95 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 107.95 93.98 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec2320fa-51fd-4f77-a9be-4902ad39db0c)
     (property "Reference" "MX49" (at 107.95 86.36 0)
@@ -4893,8 +4893,8 @@
     (property "Datasheet" "~" (at 107.95 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dfb6a965-de32-4e6e-9389-e5b9c1e1ee7b))
-    (pin "2" (uuid d29d8e4f-1e99-46d4-a887-95193b0b633a))
+    (pin "1" (uuid 66910cee-e8ae-47bd-992b-671a0050b205))
+    (pin "2" (uuid 97730c5b-0434-47e5-a9ad-280c3c82eb31))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4919,8 +4919,8 @@
     (property "Datasheet" "~" (at 44.45 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ddecf4f8-8206-46e5-a542-eadaa021f618))
-    (pin "2" (uuid ca6a1552-2d09-435b-82be-008276845d8a))
+    (pin "1" (uuid d46ac0eb-d5ca-42fb-ae3d-d48f1cb93871))
+    (pin "2" (uuid bd9985da-dacf-406a-b71f-61eeaf4453b4))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4939,14 +4939,14 @@
     (property "Value" "D" (at 201.93 118.11 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 199.39 116.84 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 199.39 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1700f423-49ea-4674-bf8d-4f2167834c8b))
-    (pin "2" (uuid 9141a0fe-3853-4301-b663-b7f47fa6d684))
+    (pin "1" (uuid bcdbd1d5-07e6-4799-a53c-621dddd5efeb))
+    (pin "2" (uuid 174bc90d-1682-43d4-a258-27e007fa932f))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -4989,14 +4989,14 @@
     (property "Value" "D" (at 201.93 46.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 199.39 45.72 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 199.39 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14fe2f0c-32b1-4906-ae36-0aa08ba0d245))
-    (pin "2" (uuid 255f87fe-3ef0-4861-97a9-19d8c9d2204b))
+    (pin "1" (uuid f6eb4783-64b9-4d71-81f8-109d92498b3f))
+    (pin "2" (uuid c3fee711-765d-42e2-93a1-295dcc66be20))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5006,7 +5006,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 57.15 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f252c1b2-03a0-4a7a-b09b-544e01a40b5a)
     (property "Reference" "MX2" (at 57.15 33.02 0)
@@ -5021,8 +5021,8 @@
     (property "Datasheet" "~" (at 57.15 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b0b89290-1519-4917-9819-5e6cea12df21))
-    (pin "2" (uuid 36b3a075-c9e7-4210-9bda-be5c94ba4f91))
+    (pin "1" (uuid bbacc82b-3bc0-4f02-a96d-b5ed703dd6eb))
+    (pin "2" (uuid dd817243-699a-432c-89b8-e0bfaf8759a1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5047,8 +5047,8 @@
     (property "Datasheet" "~" (at 184.15 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ada844a-c044-4fcb-8ef6-75496e4a8fc7))
-    (pin "2" (uuid 59997caa-f7df-49a1-b831-6f03995c2647))
+    (pin "1" (uuid e3ecdcd3-e4e8-4f5c-82c0-0d8b3cbc1b3e))
+    (pin "2" (uuid c87d8e5a-14f9-4f6f-872d-192a49325ab1))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5073,8 +5073,8 @@
     (property "Datasheet" "~" (at 82.55 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 959cf6dc-18ae-49d3-a6b8-51cc0f4b0e10))
-    (pin "2" (uuid ca546830-8311-4436-99c0-59d82c91a4dc))
+    (pin "1" (uuid 6652639c-e1f7-4469-b02a-a4bcb7f024a6))
+    (pin "2" (uuid cf438844-f109-4c5b-9076-87c5c5697b06))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5099,8 +5099,8 @@
     (property "Datasheet" "~" (at 158.75 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dca9263d-913b-4f80-96cb-981ba6554161))
-    (pin "2" (uuid 71732213-d8ca-4d45-ab76-57bd92de7287))
+    (pin "1" (uuid 4df1b777-4a38-4450-869b-7ddd08bef643))
+    (pin "2" (uuid c1dacee7-cba0-4963-b8b5-eb12caac5202))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5119,14 +5119,14 @@
     (property "Value" "D" (at 176.53 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 173.99 63.5 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 173.99 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 314d2bb5-e68e-456b-a0ad-2bee0c975e62))
-    (pin "2" (uuid 0702ce5a-823b-49f0-8f6d-78e6d8c4a3e5))
+    (pin "1" (uuid aec06f52-e3c1-4193-9e00-ddc87f496899))
+    (pin "2" (uuid 2fa1be97-ad4a-49e2-a5c6-93d35a5ba93c))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5145,14 +5145,14 @@
     (property "Value" "D" (at 138.43 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 135.89 99.06 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 135.89 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 99.06 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47c8ccbd-97f9-4efa-b87c-c5e5708f7721))
-    (pin "2" (uuid a2a65083-d829-4ad7-ab25-75e6f0bdacac))
+    (pin "1" (uuid 7adb52ba-a91c-4792-9356-62768d3dbe65))
+    (pin "2" (uuid ac9dca13-a377-4812-a6b5-c0b1ba787470))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5177,8 +5177,8 @@
     (property "Datasheet" "~" (at 57.15 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c026b0e5-15ef-4645-b54c-4b8baa15ebeb))
-    (pin "2" (uuid de098367-f992-43f3-8853-c437e00e3199))
+    (pin "1" (uuid 25c27d71-18fc-4162-ba91-d9f2cfe47571))
+    (pin "2" (uuid 689321fd-b331-4a02-9aaf-67bf0da3ee13))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5188,19 +5188,19 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_stab") (at 33.02 93.98 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_stab") (at 25.4 93.98 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid fde64461-4981-4bb8-aba4-7514bb2c7e8c)
-    (property "Reference" "S3" (at 26.67 92.71 0)
+    (property "Reference" "S3" (at 19.05 92.71 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "L_SHIFT" (at 26.67 95.25 0)
+    (property "Value" "L_SHIFT" (at 19.05 95.25 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "marbastlib-mx:STAB_MX_2.25u" (at 33.02 93.98 0)
+    (property "Footprint" "marbastlib-mx:STAB_MX_2.25u" (at 25.4 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 33.02 93.98 0)
+    (property "Datasheet" "" (at 25.4 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -5212,7 +5212,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 111.76 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 111.76 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fde64a01-5322-4bb3-9ffe-49d29f291f6e)
     (property "Reference" "MX65" (at 196.85 104.14 0)
@@ -5227,8 +5227,8 @@
     (property "Datasheet" "~" (at 196.85 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5958a0f6-de25-4a64-818c-c4ed12d8371a))
-    (pin "2" (uuid a2e476d3-c18c-49fb-8715-49ae8edd8841))
+    (pin "1" (uuid 38bc4d13-fe42-4b63-8fbe-aa5fb0fb122a))
+    (pin "2" (uuid ad16e8ef-a98f-4833-a071-cf652b69e440))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5238,7 +5238,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 133.35 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 133.35 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe1c38c4-ec2d-4b72-a590-6c1a323648d1)
     (property "Reference" "MX8" (at 133.35 33.02 0)
@@ -5253,8 +5253,8 @@
     (property "Datasheet" "~" (at 133.35 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 53414718-99f4-4456-8b93-2e61678ea757))
-    (pin "2" (uuid 936cd491-fa38-41b4-8455-c5f50a8f4eaf))
+    (pin "1" (uuid 41b3490c-80cd-4eea-b12f-5b4392d6e455))
+    (pin "2" (uuid 37d8f016-582e-418b-929a-199a8d9e2e7e))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
@@ -5264,7 +5264,7 @@
     )
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 40.64 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 196.85 40.64 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff983a29-26b0-4c9d-99ea-3ed8dfdcfe03)
     (property "Reference" "MX13" (at 196.85 33.02 0)
@@ -5279,8 +5279,8 @@
     (property "Datasheet" "~" (at 196.85 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 140b60f7-f11d-439b-bdb9-0602f5cf14eb))
-    (pin "2" (uuid f5ef6bf2-c323-4314-ae0b-a1097b1f7b25))
+    (pin "1" (uuid cd2953a2-a924-4579-b373-9229af4c52cb))
+    (pin "2" (uuid 8ff05b60-7d11-45cf-87bb-4a42b00cfc93))
     (instances
       (project "chill60"
         (path "/98d602aa-46a9-4e45-be3d-3b1e6175f1d0/737834b9-aee7-4cf4-b31e-7e166d45723a"
